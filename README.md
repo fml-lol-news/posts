@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Joe Rogan Podcast - Episode 1757 with Dr Robert Malone, MD](https://fml.lol/joe-rogan-podcast-episode/)
 - [Twitter PERMANENTLY Suspends mRNA Vaccine Inventor Dr. Robert Malone After Tweeting About The mRNA Vaccines The Day Before He Goes On With Joe Rogan](https://fml.lol/twitter-permanently-suspends-mrna-vaccine-inventor-dr-robert-malone-after-tweeting-about-the-mrna-vaccines-the-day-before-he-goes-on-with-joe-rogan/)
 - [Pro-democracy HK news outlet Stand News is shut down after staff are arrested](https://fml.lol/pro-democracy-hk-news-outlet-stand-news-is-shut-down-after-staff-are-arrested/)
 - [Pfizer partnered with Chinese vaccine passport platform before COVID](https://fml.lol/pfizer-partnered-with-chinese-vaccine-passport-platform-before-covid/)
@@ -14,7 +15,6 @@
 - [WHO Says COVID-19 Pandemic &#39;Must&#39; End In 2022, And It Requires Vaccinating The Whole World](https://fml.lol/who-says-covid-19-pandemic-must-end-in-2022-and-it-requires-vaccinating-the-whole-world/)
 - [Letter from a Doctor to a Health Minister](https://fml.lol/letter-from-a-doctor-to-a-health-minister/)
 - [Paedophile, 60, who identifies as female is jailed for 20 months after having cocaine-fuelled sex with a dog](https://fml.lol/paedophile-60-who-identifies-as-female-is-jailed-for-20-months-after-having-cocaine-fuelled-sex-with-a-dog/)
-- [If You’ve Had COVID You’re Likely Protected for Life](https://fml.lol/if-youve-had-covid-youre-likely-protected-for-life/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
