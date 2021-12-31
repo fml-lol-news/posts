@@ -1,2 +1,3 @@
-# posts
-fml.lol posts
+# fml.lol posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
