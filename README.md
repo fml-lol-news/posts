@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [After Two Years, CDC Head Admits PCR Tests Produce False Positives](https://fml.lol/after-two-years-cdc-head-admits-pcr-tests-produce-false-positives/)
 - [The governor of Missouri continues to insist viewing a website’s HTML code is a crime](https://fml.lol/the-governor-of-missouri-continues-to-insist-viewing-a-websites-html-code-is-a-crime/)
 - [Morbidly Obese Defense Secretary Fires Unvaxxed Troops in the Name of &#39;Combat Readiness&#39;](https://fml.lol/morbidly-obese-defence/)
 - [Joe Rogan Podcast - Episode 1757 with Dr Robert Malone, MD](https://fml.lol/joe-rogan-podcast-episode/)
@@ -14,7 +15,6 @@
 - [Top Pfizer Scientist Warns The Vaccine Is A Depopulation Weapon](https://fml.lol/top-pfizer-scientist-warns-the-vaccine-is-a-depopulation-weapon/)
 - [Lancet science paper DESTROYS false narrative of covid vaccines, reveals vaccinated are PERPETUATING the pandemic](https://fml.lol/lancet-science-paper-destroys-false-narrative-of-covid-vaccines-reveals-vaccinated-are-perpetuating-the-pandemic/)
 - [Joe Biden Gets Tricked Into Saying “Let’s go, Brandon...I agree!” On Televised Santa Tracking Show](https://fml.lol/joe-biden-gets-tricked-into-saying-lets-go-brandon-i-agree-on-televised-santa-tracking-show/)
-- [WHO Says COVID-19 Pandemic &#39;Must&#39; End In 2022, And It Requires Vaccinating The Whole World](https://fml.lol/who-says-covid-19-pandemic-must-end-in-2022-and-it-requires-vaccinating-the-whole-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
