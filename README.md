@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Horror as man sets himself on FIRE in his car while screaming about Dan Andrews](https://fml.lol/horror-as-man-sets-himself-on-fire-in-his-car-while-screaming-about-dan-andrews/)
 - [Bizarre craze behind smuggling of pills containing the powdered flesh of babies](https://fml.lol/bizarre-craze-behind-smuggling-of-pills-containing-the-powdered-flesh-of-babies/)
 - [After Two Years, CDC Head Admits PCR Tests Produce False Positives](https://fml.lol/after-two-years-cdc-head-admits-pcr-tests-produce-false-positives/)
 - [The governor of Missouri continues to insist viewing a website’s HTML code is a crime](https://fml.lol/the-governor-of-missouri-continues-to-insist-viewing-a-websites-html-code-is-a-crime/)
@@ -14,7 +15,6 @@
 - [Clearview AI’s controversial facial recognition tech is involved in 84 Toronto criminal cases](https://fml.lol/clearview-ais-controversial-facial-recognition-tech-is-involved-in-84-toronto-criminal-cases/)
 - [Open-source Cryptomator 2.0 for iOS makes it easier to encrypt files on the cloud](https://fml.lol/open-source-cryptomator-2-0-for-ios-makes-it-easier-to-encrypt-files-on-the-cloud/)
 - [Top Pfizer Scientist Warns The Vaccine Is A Depopulation Weapon](https://fml.lol/top-pfizer-scientist-warns-the-vaccine-is-a-depopulation-weapon/)
-- [Lancet science paper DESTROYS false narrative of covid vaccines, reveals vaccinated are PERPETUATING the pandemic](https://fml.lol/lancet-science-paper-destroys-false-narrative-of-covid-vaccines-reveals-vaccinated-are-perpetuating-the-pandemic/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
