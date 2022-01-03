@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [COVID calculator updated](https://fml.lol/covid-calculator-updated/)
+- [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
 - [Maigret OSINT tool](https://fml.lol/maigret-osint/)
 - [How to pull up the Qld Covid tyranny](https://fml.lol/how-to-pull-up-the-qld-covid-tyranny/)
 - [Horror as man sets himself on FIRE in his car while screaming about Dan Andrews](https://fml.lol/horror-as-man-sets-himself-on-fire-in-his-car-while-screaming-about-dan-andrews/)
@@ -13,8 +15,6 @@
 - [Pfizer partnered with Chinese vaccine passport platform before COVID](https://fml.lol/pfizer-partnered-with-chinese-vaccine-passport-platform-before-covid/)
 - [Details of previously secret battle over Victorian COVID contact tracing information made public](https://fml.lol/details-of-previously-secret-battle-over-victorian-covid-contact-tracing-information-made-public/)
 - [COVID-19 vaccine mandate for University of Queensland for staff, students in 2022](https://fml.lol/covid-19-vaccine-mandate-for-university-of-queensland-for-staff-students-in-2022/)
-- [Alex Jones Slams Donald Trump For Continuing To Promote COVID-19 Vaccines in ‘Emergency Christmas Day Warning’](https://fml.lol/alex-jones-slams-donald-trump-for-continuing-to-promote-covid-19-vaccines-in-emergency-christmas-day-warning/)
-- [Clearview AI’s controversial facial recognition tech is involved in 84 Toronto criminal cases](https://fml.lol/clearview-ais-controversial-facial-recognition-tech-is-involved-in-84-toronto-criminal-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
