@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [I am gender confused](https://fml.lol/i-am-gender-confused/)
 - [COVID calculator updated](https://fml.lol/covid-calculator-updated/)
 - [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
 - [Maigret OSINT tool](https://fml.lol/maigret-osint/)
@@ -14,7 +15,6 @@
 - [Pro-democracy HK news outlet Stand News is shut down after staff are arrested](https://fml.lol/pro-democracy-hk-news-outlet-stand-news-is-shut-down-after-staff-are-arrested/)
 - [Pfizer partnered with Chinese vaccine passport platform before COVID](https://fml.lol/pfizer-partnered-with-chinese-vaccine-passport-platform-before-covid/)
 - [Details of previously secret battle over Victorian COVID contact tracing information made public](https://fml.lol/details-of-previously-secret-battle-over-victorian-covid-contact-tracing-information-made-public/)
-- [COVID-19 vaccine mandate for University of Queensland for staff, students in 2022](https://fml.lol/covid-19-vaccine-mandate-for-university-of-queensland-for-staff-students-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
