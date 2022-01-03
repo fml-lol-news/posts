@@ -1,7 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Extreme censorship in REAL TIME: Google is 1984-ing this Doctor’s societal DIAGNOSIS, thus VERIFYING it](https://fml.lol/extreme-censorship-in-real-time-google-is-1984-ing-this-doctors-societal-diagnosis-thus-verifying-it/)
 - [I am gender confused](https://fml.lol/i-am-gender-confused/)
-- [COVID calculator updated](https://fml.lol/covid-calculator-updated/)
+- [COVID® calculator updated](https://fml.lol/covid-calculator-updated/)
 - [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
 - [Maigret OSINT tool](https://fml.lol/maigret-osint/)
 - [How to pull up the Qld Covid tyranny](https://fml.lol/how-to-pull-up-the-qld-covid-tyranny/)
@@ -14,7 +15,6 @@
 - [Twitter PERMANENTLY Suspends mRNA Vaccine Inventor Dr. Robert Malone After Tweeting About The mRNA Vaccines The Day Before He Goes On With Joe Rogan](https://fml.lol/twitter-permanently-suspends-mrna-vaccine-inventor-dr-robert-malone-after-tweeting-about-the-mrna-vaccines-the-day-before-he-goes-on-with-joe-rogan/)
 - [Pro-democracy HK news outlet Stand News is shut down after staff are arrested](https://fml.lol/pro-democracy-hk-news-outlet-stand-news-is-shut-down-after-staff-are-arrested/)
 - [Pfizer partnered with Chinese vaccine passport platform before COVID](https://fml.lol/pfizer-partnered-with-chinese-vaccine-passport-platform-before-covid/)
-- [Details of previously secret battle over Victorian COVID contact tracing information made public](https://fml.lol/details-of-previously-secret-battle-over-victorian-covid-contact-tracing-information-made-public/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
