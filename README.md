@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Law enforcement officers beheaded in Kazakhstan](https://fml.lol/law-enforcement-officers-beheaded-in-kazakhstan/)
 - [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
 - [Podcasting is likely the next censorship target](https://fml.lol/podcasting-is-likely-the-next-censorship-target/)
 - [Local doctors&#39; voices heard for alternative COVID treatment at BOS](https://fml.lol/local-doctors-voices-heard-for-alternative-covid-treatment-at-bos/)
@@ -14,7 +15,6 @@
 - [How to pull up the Qld Covid tyranny](https://fml.lol/how-to-pull-up-the-qld-covid-tyranny/)
 - [Horror as man sets himself on FIRE in his car while screaming about Dan Andrews](https://fml.lol/horror-as-man-sets-himself-on-fire-in-his-car-while-screaming-about-dan-andrews/)
 - [Bizarre craze behind smuggling of pills containing the powdered flesh of babies](https://fml.lol/bizarre-craze-behind-smuggling-of-pills-containing-the-powdered-flesh-of-babies/)
-- [After Two Years, CDC Head Admits PCR Tests Produce False Positives](https://fml.lol/after-two-years-cdc-head-admits-pcr-tests-produce-false-positives/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
