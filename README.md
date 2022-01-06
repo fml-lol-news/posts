@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene.](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
+- [Podcasting is likely the next censorship target](https://fml.lol/podcasting-is-likely-the-next-censorship-target/)
 - [Local doctors&#39; voices heard for alternative COVID treatment at BOS](https://fml.lol/local-doctors-voices-heard-for-alternative-covid-treatment-at-bos/)
 - [Man dies after falling into active Hawaiian volcano](https://fml.lol/man-falls-into-volcano/)
 - [Watch South Park Hilariously Explain NFT Craze in Post Covid 2 Video](https://fml.lol/watch-south-park-hilariously-explain-nft-craze-in-post-covid-2-video/)
@@ -13,8 +15,6 @@
 - [Horror as man sets himself on FIRE in his car while screaming about Dan Andrews](https://fml.lol/horror-as-man-sets-himself-on-fire-in-his-car-while-screaming-about-dan-andrews/)
 - [Bizarre craze behind smuggling of pills containing the powdered flesh of babies](https://fml.lol/bizarre-craze-behind-smuggling-of-pills-containing-the-powdered-flesh-of-babies/)
 - [After Two Years, CDC Head Admits PCR Tests Produce False Positives](https://fml.lol/after-two-years-cdc-head-admits-pcr-tests-produce-false-positives/)
-- [The governor of Missouri continues to insist viewing a website’s HTML code is a crime](https://fml.lol/the-governor-of-missouri-continues-to-insist-viewing-a-websites-html-code-is-a-crime/)
-- [Morbidly Obese Defense Secretary Fires Unvaxxed Troops in the Name of &#39;Combat Readiness&#39;](https://fml.lol/morbidly-obese-defence/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
