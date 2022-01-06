@@ -1,6 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
-- [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene.](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
+- [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
 - [Podcasting is likely the next censorship target](https://fml.lol/podcasting-is-likely-the-next-censorship-target/)
 - [Local doctors&#39; voices heard for alternative COVID treatment at BOS](https://fml.lol/local-doctors-voices-heard-for-alternative-covid-treatment-at-bos/)
 - [Man dies after falling into active Hawaiian volcano](https://fml.lol/man-falls-into-volcano/)
