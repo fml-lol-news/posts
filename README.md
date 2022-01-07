@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Encyclopedia Censoria 2021 - Physical USB Drive](https://fml.lol/encyclopedia-censoria-2021-physical-usb-drive/)
+- [Davos 2021 Highlights: Reimagining education](https://fml.lol/davos-2021-highlights-reimagining-education/)
 - [Law enforcement officers beheaded in Kazakhstan](https://fml.lol/law-enforcement-officers-beheaded-in-kazakhstan/)
 - [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
 - [Podcasting is likely the next censorship target](https://fml.lol/podcasting-is-likely-the-next-censorship-target/)
@@ -13,8 +15,6 @@
 - [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
 - [Maigret OSINT tool](https://fml.lol/maigret-osint/)
 - [How to pull up the Qld Covid tyranny](https://fml.lol/how-to-pull-up-the-qld-covid-tyranny/)
-- [Horror as man sets himself on FIRE in his car while screaming about Dan Andrews](https://fml.lol/horror-as-man-sets-himself-on-fire-in-his-car-while-screaming-about-dan-andrews/)
-- [Bizarre craze behind smuggling of pills containing the powdered flesh of babies](https://fml.lol/bizarre-craze-behind-smuggling-of-pills-containing-the-powdered-flesh-of-babies/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
