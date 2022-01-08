@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [The Strange Story of Google&#39;s Selfish Ledger](https://fml.lol/the-strange-story-of-googles-selfish-ledger/)
 - [How a largely untested AI algorithm crept into hundreds of hospitals](https://fml.lol/how-a-largely-untested-ai-algorithm-crept-into-hundreds-of-hospitals/)
 - [Encyclopedia Censoria 2021 - Physical USB Drive](https://fml.lol/encyclopedia-censoria-2021-physical-usb-drive/)
 - [Davos 2021 Highlights: Reimagining education](https://fml.lol/davos-2021-highlights-reimagining-education/)
@@ -14,7 +15,6 @@
 - [I am gender confused](https://fml.lol/i-am-gender-confused/)
 - [COVID® calculator updated](https://fml.lol/covid-calculator-updated/)
 - [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
-- [Maigret OSINT tool](https://fml.lol/maigret-osint/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
