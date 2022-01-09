@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [A Look Back at 2021: The Good, the Bad and the Censored](https://fml.lol/a-look-back-at-2021-the-good-the-bad-and-the-censored/)
+- [Bombshell Document Dump on Pfizer Vaccine Data](https://fml.lol/bombshell-document-dump-on-pfizer-vaccine-data/)
+- [How Big Tech Is Taking Over Your Next Vehicle](https://fml.lol/how-big-tech-is-taking-over-your-next-vehicle/)
 - [Women’s Periods May Be Late After Covid Vaccination Finds New Study](https://fml.lol/womens-periods-may-be-late-after-covid-vaccination-finds-new-study/)
 - [Covid microchips are coming “whether we like it or not” warns developer](https://fml.lol/covid-microchips-are-coming-whether-we-like-it-or-not-warns-developer/)
 - [The Strange Story of Google&#39;s Selfish Ledger](https://fml.lol/the-strange-story-of-googles-selfish-ledger/)
@@ -12,9 +15,6 @@
 - [Local doctors&#39; voices heard for alternative COVID treatment at BOS](https://fml.lol/local-doctors-voices-heard-for-alternative-covid-treatment-at-bos/)
 - [Man dies after falling into active Hawaiian volcano](https://fml.lol/man-falls-into-volcano/)
 - [Watch South Park Hilariously Explain NFT Craze in Post Covid 2 Video](https://fml.lol/watch-south-park-hilariously-explain-nft-craze-in-post-covid-2-video/)
-- [Anti-Lockdown Protesters Attacked By Police Dogs &amp; Batons In Amsterdam](https://fml.lol/anti-lockdown-protesters-attacked-by-police-dogs/)
-- [Extreme censorship in REAL TIME: Google is 1984-ing this Doctor’s societal DIAGNOSIS, thus VERIFYING it](https://fml.lol/extreme-censorship-in-real-time-google-is-1984-ing-this-doctors-societal-diagnosis-thus-verifying-it/)
-- [I am gender confused](https://fml.lol/i-am-gender-confused/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
