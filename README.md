@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Women’s Periods May Be Late After Covid Vaccination Finds New Study](https://fml.lol/womens-periods-may-be-late-after-covid-vaccination-finds-new-study/)
 - [Covid microchips are coming “whether we like it or not” warns developer](https://fml.lol/covid-microchips-are-coming-whether-we-like-it-or-not-warns-developer/)
 - [The Strange Story of Google&#39;s Selfish Ledger](https://fml.lol/the-strange-story-of-googles-selfish-ledger/)
 - [How a largely untested AI algorithm crept into hundreds of hospitals](https://fml.lol/how-a-largely-untested-ai-algorithm-crept-into-hundreds-of-hospitals/)
@@ -14,7 +15,6 @@
 - [Anti-Lockdown Protesters Attacked By Police Dogs &amp; Batons In Amsterdam](https://fml.lol/anti-lockdown-protesters-attacked-by-police-dogs/)
 - [Extreme censorship in REAL TIME: Google is 1984-ing this Doctor’s societal DIAGNOSIS, thus VERIFYING it](https://fml.lol/extreme-censorship-in-real-time-google-is-1984-ing-this-doctors-societal-diagnosis-thus-verifying-it/)
 - [I am gender confused](https://fml.lol/i-am-gender-confused/)
-- [COVID® calculator updated](https://fml.lol/covid-calculator-updated/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
