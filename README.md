@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Covid microchips are coming “whether we like it or not” warns developer](https://fml.lol/covid-microchips-are-coming-whether-we-like-it-or-not-warns-developer/)
 - [The Strange Story of Google&#39;s Selfish Ledger](https://fml.lol/the-strange-story-of-googles-selfish-ledger/)
 - [How a largely untested AI algorithm crept into hundreds of hospitals](https://fml.lol/how-a-largely-untested-ai-algorithm-crept-into-hundreds-of-hospitals/)
 - [Encyclopedia Censoria 2021 - Physical USB Drive](https://fml.lol/encyclopedia-censoria-2021-physical-usb-drive/)
@@ -14,7 +15,6 @@
 - [Extreme censorship in REAL TIME: Google is 1984-ing this Doctor’s societal DIAGNOSIS, thus VERIFYING it](https://fml.lol/extreme-censorship-in-real-time-google-is-1984-ing-this-doctors-societal-diagnosis-thus-verifying-it/)
 - [I am gender confused](https://fml.lol/i-am-gender-confused/)
 - [COVID® calculator updated](https://fml.lol/covid-calculator-updated/)
-- [CIA Experimented On Hundreds Of Orphans](https://fml.lol/cia-experimented-on-hundreds-of-orphans/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
