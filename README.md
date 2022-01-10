@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source developer corrupts widely used libraries, affecting tons of projects](https://fml.lol/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
 - [For experts, they are sure fudging a lot of statistics](https://fml.lol/for-experts-they-are-sure-fudging-a-lot-of-statistics/)
 - [A Look Back at 2021: The Good, the Bad and the Censored](https://fml.lol/a-look-back-at-2021-the-good-the-bad-and-the-censored/)
 - [Bombshell Document Dump on Pfizer Vaccine Data](https://fml.lol/bombshell-document-dump-on-pfizer-vaccine-data/)
@@ -14,7 +15,6 @@
 - [Joe Rogan leads move to GETTR after Twitter bans Dr. Robert Malone, Rep. Marjorie Taylor Greene](https://fml.lol/joe-rogan-leads-move-to-gettr-after-twitter-bans-dr-robert-malone-rep-marjorie-taylor-greene/)
 - [Podcasting is likely the next censorship target](https://fml.lol/podcasting-is-likely-the-next-censorship-target/)
 - [Local doctors&#39; voices heard for alternative COVID treatment at BOS](https://fml.lol/local-doctors-voices-heard-for-alternative-covid-treatment-at-bos/)
-- [Man dies after falling into active Hawaiian volcano](https://fml.lol/man-falls-into-volcano/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
