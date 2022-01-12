@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube deletes Dr. Robert Malone interview with Patrick Bet-David](https://fml.lol/youtube-deletes-dr-robert-malone-interview-with-patrick-bet-david/)
+- [Microsoft: macOS &#39;Powerdir&#39; Flaw Could Let Attackers Gain Access to User Data](https://fml.lol/microsoft-macos-powerdir-flaw-could-let-attackers-gain-access-to-user-data/)
 - [Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO](https://fml.lol/signal-ceo-resigns-whatsapp-co-founder-takes-over-as-interim-ceo/)
 - [Status.im - Private, Secure Communication](https://fml.lol/status-im-private-secure-communication/)
 - [Elon Musk&#39;s Neuralink to Start Implanting Brain Chips in Humans](https://fml.lol/elon-musks-neuralink-to-start-implanting-brain-chips-in-humans/)
@@ -13,8 +15,6 @@
 - [Covid microchips are coming “whether we like it or not” warns developer](https://fml.lol/covid-microchips-are-coming-whether-we-like-it-or-not-warns-developer/)
 - [The Strange Story of Google&#39;s Selfish Ledger](https://fml.lol/the-strange-story-of-googles-selfish-ledger/)
 - [How a largely untested AI algorithm crept into hundreds of hospitals](https://fml.lol/how-a-largely-untested-ai-algorithm-crept-into-hundreds-of-hospitals/)
-- [Encyclopedia Censoria 2021 - Physical USB Drive](https://fml.lol/encyclopedia-censoria-2021-physical-usb-drive/)
-- [Davos 2021 Highlights: Reimagining education](https://fml.lol/davos-2021-highlights-reimagining-education/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
