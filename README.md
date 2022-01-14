@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Why should I be sacked for refusing the vaccine?](https://fml.lol/why-should-i-be-sacked-for-refusing-the-vaccine/)
 - [New Zealand says 26-year-old plumber’s death probably caused by Pfizer vaccine](https://fml.lol/new-zealand-says-26-year-old-plumbers-death-probably-caused-by-pfizer-vaccine/)
 - [Military Documents About Gain of Function Contradict Fauci Testimony Under Oath](https://fml.lol/military-documents-about-gain-of-function-contradict-fauci-testimony-under-oath/)
 - [YouTube deletes Dr. Robert Malone interview with Patrick Bet-David](https://fml.lol/youtube-deletes-dr-robert-malone-interview-with-patrick-bet-david/)
@@ -14,7 +15,6 @@
 - [Bombshell Document Dump on Pfizer Vaccine Data](https://fml.lol/bombshell-document-dump-on-pfizer-vaccine-data/)
 - [How Big Tech Is Taking Over Your Next Vehicle](https://fml.lol/how-big-tech-is-taking-over-your-next-vehicle/)
 - [Women’s Periods May Be Late After Covid Vaccination Finds New Study](https://fml.lol/womens-periods-may-be-late-after-covid-vaccination-finds-new-study/)
-- [Covid microchips are coming “whether we like it or not” warns developer](https://fml.lol/covid-microchips-are-coming-whether-we-like-it-or-not-warns-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
