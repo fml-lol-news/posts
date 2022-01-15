@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Novavax produced genetically-modified avian, swine and Spanish flu – 51 million doses coming to Australia](https://fml.lol/novavax-produced-genetically-modified-avian-swine-and-spanish-flu-51-million-doses-coming-to-australia/)
+- [UK-based investigative reporter wants to unmask Disclose.tv](https://fml.lol/uk-based-investigative-reporter-wants-to-unmask-disclose-tv/)
+- [Supply Chain Shock Is Coming as China Shuts Down Major Ports](https://fml.lol/supply-chain-shock-is-coming-as-china-shuts-down-major-ports/)
 - [NRx Pharmaceuticals pursues Covid-19 vaccine as it continues work on treatment candidate](https://fml.lol/nrx-pharmaceuticals-pursues-covid-19-vaccine-as-it-continues-work-on-treatment-candidate/)
 - [Russia starts playing by the rules: FSB busts 14 REvil ransomware suspects](https://fml.lol/russia-starts-playing-by-the-rules-fsb-busts-14-revil-ransomware-suspects/)
 - [Palaszczuk’s pathetic police pounce on cafe patron, takes four to incarcerate her](https://fml.lol/palaszczuks-pathetic-police-pounce-on-cafe-patron-takes-four-to-incarcerate-her/)
@@ -12,9 +15,6 @@
 - [Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO](https://fml.lol/signal-ceo-resigns-whatsapp-co-founder-takes-over-as-interim-ceo/)
 - [Status.im - Private, Secure Communication](https://fml.lol/status-im-private-secure-communication/)
 - [Elon Musk&#39;s Neuralink to Start Implanting Brain Chips in Humans](https://fml.lol/elon-musks-neuralink-to-start-implanting-brain-chips-in-humans/)
-- [Zeynep Pamuk on the Case for Creating Science Courts](https://fml.lol/zeynep-pamuk-on-the-case-for-creating-science-courts/)
-- [Open source developer corrupts widely used libraries, affecting tons of projects](https://fml.lol/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
-- [For experts, they are sure fudging a lot of statistics](https://fml.lol/for-experts-they-are-sure-fudging-a-lot-of-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
