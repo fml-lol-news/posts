@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Russia starts playing by the rules: FSB busts 14 REvil ransomware suspects](https://fml.lol/russia-starts-playing-by-the-rules-fsb-busts-14-revil-ransomware-suspects/)
+- [Palaszczuk’s pathetic police pounce on cafe patron, takes four to incarcerate her](https://fml.lol/palaszczuks-pathetic-police-pounce-on-cafe-patron-takes-four-to-incarcerate-her/)
 - [Battle Of Los Angeles - Review](https://fml.lol/battle-of-los-angeles-review/)
 - [Why should I be sacked for refusing the vaccine?](https://fml.lol/why-should-i-be-sacked-for-refusing-the-vaccine/)
 - [New Zealand says 26-year-old plumber’s death probably caused by Pfizer vaccine](https://fml.lol/new-zealand-says-26-year-old-plumbers-death-probably-caused-by-pfizer-vaccine/)
@@ -13,8 +15,6 @@
 - [Open source developer corrupts widely used libraries, affecting tons of projects](https://fml.lol/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
 - [For experts, they are sure fudging a lot of statistics](https://fml.lol/for-experts-they-are-sure-fudging-a-lot-of-statistics/)
 - [A Look Back at 2021: The Good, the Bad and the Censored](https://fml.lol/a-look-back-at-2021-the-good-the-bad-and-the-censored/)
-- [Bombshell Document Dump on Pfizer Vaccine Data](https://fml.lol/bombshell-document-dump-on-pfizer-vaccine-data/)
-- [How Big Tech Is Taking Over Your Next Vehicle](https://fml.lol/how-big-tech-is-taking-over-your-next-vehicle/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
