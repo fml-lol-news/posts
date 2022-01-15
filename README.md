@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Marine Tsunami Warning issued for Gold Coast waters](https://fml.lol/marine-tsunami-warning-issued-for-gold-coast-waters/)
 - [Novavax produced genetically-modified avian, swine and Spanish flu – 51 million doses coming to Australia](https://fml.lol/novavax-produced-genetically-modified-avian-swine-and-spanish-flu-51-million-doses-coming-to-australia/)
 - [UK-based investigative reporter wants to unmask Disclose.tv](https://fml.lol/uk-based-investigative-reporter-wants-to-unmask-disclose-tv/)
 - [Supply Chain Shock Is Coming as China Shuts Down Major Ports](https://fml.lol/supply-chain-shock-is-coming-as-china-shuts-down-major-ports/)
@@ -14,7 +15,6 @@
 - [Microsoft: macOS &#39;Powerdir&#39; Flaw Could Let Attackers Gain Access to User Data](https://fml.lol/microsoft-macos-powerdir-flaw-could-let-attackers-gain-access-to-user-data/)
 - [Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO](https://fml.lol/signal-ceo-resigns-whatsapp-co-founder-takes-over-as-interim-ceo/)
 - [Status.im - Private, Secure Communication](https://fml.lol/status-im-private-secure-communication/)
-- [Elon Musk&#39;s Neuralink to Start Implanting Brain Chips in Humans](https://fml.lol/elon-musks-neuralink-to-start-implanting-brain-chips-in-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
