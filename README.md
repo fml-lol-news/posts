@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [NRx Pharmaceuticals pursues Covid-19 vaccine as it continues work on treatment candidate](https://fml.lol/nrx-pharmaceuticals-pursues-covid-19-vaccine-as-it-continues-work-on-treatment-candidate/)
 - [Russia starts playing by the rules: FSB busts 14 REvil ransomware suspects](https://fml.lol/russia-starts-playing-by-the-rules-fsb-busts-14-revil-ransomware-suspects/)
 - [Palaszczuk’s pathetic police pounce on cafe patron, takes four to incarcerate her](https://fml.lol/palaszczuks-pathetic-police-pounce-on-cafe-patron-takes-four-to-incarcerate-her/)
 - [Battle Of Los Angeles - Review](https://fml.lol/battle-of-los-angeles-review/)
@@ -14,7 +15,6 @@
 - [Zeynep Pamuk on the Case for Creating Science Courts](https://fml.lol/zeynep-pamuk-on-the-case-for-creating-science-courts/)
 - [Open source developer corrupts widely used libraries, affecting tons of projects](https://fml.lol/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
 - [For experts, they are sure fudging a lot of statistics](https://fml.lol/for-experts-they-are-sure-fudging-a-lot-of-statistics/)
-- [A Look Back at 2021: The Good, the Bad and the Censored](https://fml.lol/a-look-back-at-2021-the-good-the-bad-and-the-censored/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
