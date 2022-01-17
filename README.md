@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [There are 25,754 adverse event reports in VAERS for babies aged 0-2](https://fml.lol/there-are-25-754-adverse-event-reports-in-vaers-for-babies-aged-0-2/)
+- [Safari exploit can leak browser histories and Google account info](https://fml.lol/safari-exploit-can-leak-browser-histories-and-google-account-info/)
 - [Dramatic moment a cafe owner is arrested in his own store](https://fml.lol/dramatic-moment-a-cafe-owner-is-arrested-in-his-own-store/)
 - [Marine Tsunami Warning issued for Gold Coast waters](https://fml.lol/marine-tsunami-warning-issued-for-gold-coast-waters/)
 - [Novavax produced genetically-modified avian, swine and Spanish flu – 51 million doses coming to Australia](https://fml.lol/novavax-produced-genetically-modified-avian-swine-and-spanish-flu-51-million-doses-coming-to-australia/)
@@ -13,8 +15,6 @@
 - [New Zealand says 26-year-old plumber’s death probably caused by Pfizer vaccine](https://fml.lol/new-zealand-says-26-year-old-plumbers-death-probably-caused-by-pfizer-vaccine/)
 - [Military Documents About Gain of Function Contradict Fauci Testimony Under Oath](https://fml.lol/military-documents-about-gain-of-function-contradict-fauci-testimony-under-oath/)
 - [YouTube deletes Dr. Robert Malone interview with Patrick Bet-David](https://fml.lol/youtube-deletes-dr-robert-malone-interview-with-patrick-bet-david/)
-- [Microsoft: macOS &#39;Powerdir&#39; Flaw Could Let Attackers Gain Access to User Data](https://fml.lol/microsoft-macos-powerdir-flaw-could-let-attackers-gain-access-to-user-data/)
-- [Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO](https://fml.lol/signal-ceo-resigns-whatsapp-co-founder-takes-over-as-interim-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
