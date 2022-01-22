@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Chats Show GETTR Founder Taking Orders From Chinese Billionaire](https://fml.lol/leaked-chats-show-gettr-founder-taking-orders-from-chinese-billionaire/)
 - [Mass COVID trance behaviour explained by these mind-bending experiments](https://fml.lol/mass-covid-trance-behaviour-explained-by-these-mind-bending-experiments/)
 - [England Ends All COVID Passports, Mask Mandates, Work Restrictions](https://fml.lol/england-ends-all-covid-passports-mask-mandates-work-restrictions/)
 - [UK admits COVID vaccine damages natural immune system](https://fml.lol/uk-admits-covid-vaccine-damages-natural-immune-system/)
@@ -14,7 +15,6 @@
 - [NRx Pharmaceuticals pursues Covid-19 vaccine as it continues work on treatment candidate](https://fml.lol/nrx-pharmaceuticals-pursues-covid-19-vaccine-as-it-continues-work-on-treatment-candidate/)
 - [Russia starts playing by the rules: FSB busts 14 REvil ransomware suspects](https://fml.lol/russia-starts-playing-by-the-rules-fsb-busts-14-revil-ransomware-suspects/)
 - [Palaszczuk’s pathetic police pounce on cafe patron, takes four to incarcerate her](https://fml.lol/palaszczuks-pathetic-police-pounce-on-cafe-patron-takes-four-to-incarcerate-her/)
-- [Battle Of Los Angeles - Review](https://fml.lol/battle-of-los-angeles-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
