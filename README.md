@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [England Ends All COVID Passports, Mask Mandates, Work Restrictions](https://fml.lol/england-ends-all-covid-passports-mask-mandates-work-restrictions/)
 - [UK admits COVID vaccine damages natural immune system](https://fml.lol/uk-admits-covid-vaccine-damages-natural-immune-system/)
 - [DID THE PRIME MINISTER OF AUSTRALIA SHIT HIS PANTS IN A MCDONALD’S?](https://fml.lol/did-the-prime-minister-of-australia-shit-his-pants-in-a-mcdonalds/)
 - [There are 25,754 adverse event reports in VAERS for babies aged 0-2](https://fml.lol/there-are-25-754-adverse-event-reports-in-vaers-for-babies-aged-0-2/)
@@ -14,7 +15,6 @@
 - [Palaszczuk’s pathetic police pounce on cafe patron, takes four to incarcerate her](https://fml.lol/palaszczuks-pathetic-police-pounce-on-cafe-patron-takes-four-to-incarcerate-her/)
 - [Battle Of Los Angeles - Review](https://fml.lol/battle-of-los-angeles-review/)
 - [Why should I be sacked for refusing the vaccine?](https://fml.lol/why-should-i-be-sacked-for-refusing-the-vaccine/)
-- [New Zealand says 26-year-old plumber’s death probably caused by Pfizer vaccine](https://fml.lol/new-zealand-says-26-year-old-plumbers-death-probably-caused-by-pfizer-vaccine/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
