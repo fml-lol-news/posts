@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Policy Is All Wrong! Says Top Immunologist](https://fml.lol/policy-is-all-wrong-says-top-immunologist/)
 - [Australians Reject the ‘new normal’ with marches across the country](https://fml.lol/australians-reject-the-new-normal-with-marches-across-the-country/)
 - [Fourth Pfizer dose is insufficient to ward off omicron, Israeli trial suggests](https://fml.lol/fourth-pfizer-dose-is-insufficient-to-ward-off-omicron-israeli-trial-suggests/)
 - [Daniel Andrews warns of an imminent change to Australia&#39;s definition of &#39;fully vaccinated&#39;](https://fml.lol/daniel-andrews-warns-of-an-imminent-change-to-australias-definition-of-fully-vaccinated/)
@@ -14,7 +15,6 @@
 - [Dramatic moment a cafe owner is arrested in his own store](https://fml.lol/dramatic-moment-a-cafe-owner-is-arrested-in-his-own-store/)
 - [Marine Tsunami Warning issued for Gold Coast waters](https://fml.lol/marine-tsunami-warning-issued-for-gold-coast-waters/)
 - [Novavax produced genetically-modified avian, swine and Spanish flu – 51 million doses coming to Australia](https://fml.lol/novavax-produced-genetically-modified-avian-swine-and-spanish-flu-51-million-doses-coming-to-australia/)
-- [UK-based investigative reporter wants to unmask Disclose.tv](https://fml.lol/uk-based-investigative-reporter-wants-to-unmask-disclose-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
