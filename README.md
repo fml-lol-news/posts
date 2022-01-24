@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
 - [Policy Is All Wrong! Says Top Immunologist](https://fml.lol/policy-is-all-wrong-says-top-immunologist/)
 - [Australians Reject the ‘new normal’ with marches across the country](https://fml.lol/australians-reject-the-new-normal-with-marches-across-the-country/)
 - [Fourth Pfizer dose is insufficient to ward off omicron, Israeli trial suggests](https://fml.lol/fourth-pfizer-dose-is-insufficient-to-ward-off-omicron-israeli-trial-suggests/)
@@ -14,7 +15,6 @@
 - [Safari exploit can leak browser histories and Google account info](https://fml.lol/safari-exploit-can-leak-browser-histories-and-google-account-info/)
 - [Dramatic moment a cafe owner is arrested in his own store](https://fml.lol/dramatic-moment-a-cafe-owner-is-arrested-in-his-own-store/)
 - [Marine Tsunami Warning issued for Gold Coast waters](https://fml.lol/marine-tsunami-warning-issued-for-gold-coast-waters/)
-- [Novavax produced genetically-modified avian, swine and Spanish flu – 51 million doses coming to Australia](https://fml.lol/novavax-produced-genetically-modified-avian-swine-and-spanish-flu-51-million-doses-coming-to-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
