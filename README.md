@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Former soldier killed as homemade bomb explodes in Melbourne’s south-east](https://fml.lol/former-soldier-killed-as-homemade-bomb-explodes-in-melbournes-south-east/)
 - [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
 - [Policy Is All Wrong! Says Top Immunologist](https://fml.lol/policy-is-all-wrong-says-top-immunologist/)
 - [Australians Reject the ‘new normal’ with marches across the country](https://fml.lol/australians-reject-the-new-normal-with-marches-across-the-country/)
@@ -14,7 +15,6 @@
 - [There are 25,754 adverse event reports in VAERS for babies aged 0-2](https://fml.lol/there-are-25-754-adverse-event-reports-in-vaers-for-babies-aged-0-2/)
 - [Safari exploit can leak browser histories and Google account info](https://fml.lol/safari-exploit-can-leak-browser-histories-and-google-account-info/)
 - [Dramatic moment a cafe owner is arrested in his own store](https://fml.lol/dramatic-moment-a-cafe-owner-is-arrested-in-his-own-store/)
-- [Marine Tsunami Warning issued for Gold Coast waters](https://fml.lol/marine-tsunami-warning-issued-for-gold-coast-waters/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
