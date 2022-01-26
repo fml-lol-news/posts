@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Switzerland Cancels Vaccine Passports](https://fml.lol/switzerland-cancels-vaccine-passports/)
+- [Facebooks New AI Supercomputer Will Be Used to Censor Speech](https://fml.lol/facebooks-new-ai-supercomputer-will-be-used-to-censor-speech/)
 - [The Spectacular Failure of COVID Shots](https://fml.lol/the-spectacular-failure-of-covid-shots/)
 - [Oppressive COVID Measures for the Unvaccinated Were Based on ‘Software’ Error, Claims German Minister](https://fml.lol/oppressive-covid-measures-for-the-unvaccinated-were-based-on-software-error-claims-german-minister/)
 - [Australian law that makes people liable for linking to defamatory content will have a “devastating” impact on speech if not overturned](https://fml.lol/australian-law-that-makes-people-liable-for-linking-to-defamatory-content-will-have-a-devastating-impact-on-speech-if-not-overturned/)
@@ -13,8 +15,6 @@
 - [Fourth Pfizer dose is insufficient to ward off omicron, Israeli trial suggests](https://fml.lol/fourth-pfizer-dose-is-insufficient-to-ward-off-omicron-israeli-trial-suggests/)
 - [Daniel Andrews warns of an imminent change to Australia&#39;s definition of &#39;fully vaccinated&#39;](https://fml.lol/daniel-andrews-warns-of-an-imminent-change-to-australias-definition-of-fully-vaccinated/)
 - [5 Gems From Jeffrey Wells, Film Criticism’s Greatest Troll](https://fml.lol/5-gems-from-jeffrey-wells-film-criticisms-greatest-troll/)
-- [Leaked Chats Show GETTR Founder Taking Orders From Chinese Billionaire](https://fml.lol/leaked-chats-show-gettr-founder-taking-orders-from-chinese-billionaire/)
-- [Mass COVID trance behaviour explained by these mind-bending experiments](https://fml.lol/mass-covid-trance-behaviour-explained-by-these-mind-bending-experiments/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
