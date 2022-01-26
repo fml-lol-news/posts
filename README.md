@@ -1,5 +1,10 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [The Spectacular Failure of COVID Shots](https://fml.lol/the-spectacular-failure-of-covid-shots/)
+- [Oppressive COVID Measures for the Unvaccinated Were Based on ‘Software’ Error, Claims German Minister](https://fml.lol/oppressive-covid-measures-for-the-unvaccinated-were-based-on-software-error-claims-german-minister/)
+- [Australian law that makes people liable for linking to defamatory content will have a “devastating” impact on speech if not overturned](https://fml.lol/australian-law-that-makes-people-liable-for-linking-to-defamatory-content-will-have-a-devastating-impact-on-speech-if-not-overturned/)
+- [Will the old world order end in Ukraine?](https://fml.lol/will-the-old-world-order-end-in-ukraine/)
+- [Insurance Companies Note Jump In Death Payouts Amid 40% Rise Among Prime-Age Americans](https://fml.lol/insurance-companies-note-jump-in-death-payouts-amid-40-rise-among-prime-age-americans/)
 - [Documents Showing Ivermectin and Hydroxychloroquine Effective in Treating COVID Were Buried](https://fml.lol/documents-showing-ivermectin-and-hydroxychloroquine-effective-in-treating-covid-were-buried/)
 - [Former soldier killed as homemade bomb explodes in Melbourne’s south-east](https://fml.lol/former-soldier-killed-as-homemade-bomb-explodes-in-melbournes-south-east/)
 - [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
@@ -10,11 +15,6 @@
 - [5 Gems From Jeffrey Wells, Film Criticism’s Greatest Troll](https://fml.lol/5-gems-from-jeffrey-wells-film-criticisms-greatest-troll/)
 - [Leaked Chats Show GETTR Founder Taking Orders From Chinese Billionaire](https://fml.lol/leaked-chats-show-gettr-founder-taking-orders-from-chinese-billionaire/)
 - [Mass COVID trance behaviour explained by these mind-bending experiments](https://fml.lol/mass-covid-trance-behaviour-explained-by-these-mind-bending-experiments/)
-- [England Ends All COVID Passports, Mask Mandates, Work Restrictions](https://fml.lol/england-ends-all-covid-passports-mask-mandates-work-restrictions/)
-- [UK admits COVID vaccine damages natural immune system](https://fml.lol/uk-admits-covid-vaccine-damages-natural-immune-system/)
-- [DID THE PRIME MINISTER OF AUSTRALIA SHIT HIS PANTS IN A MCDONALD’S?](https://fml.lol/did-the-prime-minister-of-australia-shit-his-pants-in-a-mcdonalds/)
-- [There are 25,754 adverse event reports in VAERS for babies aged 0-2](https://fml.lol/there-are-25-754-adverse-event-reports-in-vaers-for-babies-aged-0-2/)
-- [Safari exploit can leak browser histories and Google account info](https://fml.lol/safari-exploit-can-leak-browser-histories-and-google-account-info/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
