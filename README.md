@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Polish Activist Tries to Save &quot;Transgender Cow&quot; From Slaughter](https://fml.lol/polish-activist-tries-to-save-transgender-cow-from-slaughter/)
+- [Toddler Rapist Now Award-Winning Trans Rights Activist](https://fml.lol/toddler-rapist-now-award-winning-trans-rights-activist/)
 - [New Variant NeoCov announced by Chinese Scientists, apparently deadly](https://fml.lol/new-variant-neocov-announced-by-chinese-scientists-apparently-deadly/)
 - [Switzerland Cancels Vaccine Passports](https://fml.lol/switzerland-cancels-vaccine-passports/)
 - [Facebooks New AI Supercomputer Will Be Used to Censor Speech](https://fml.lol/facebooks-new-ai-supercomputer-will-be-used-to-censor-speech/)
@@ -13,8 +15,6 @@
 - [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
 - [Policy Is All Wrong! Says Top Immunologist](https://fml.lol/policy-is-all-wrong-says-top-immunologist/)
 - [Australians Reject the ‘new normal’ with marches across the country](https://fml.lol/australians-reject-the-new-normal-with-marches-across-the-country/)
-- [Fourth Pfizer dose is insufficient to ward off omicron, Israeli trial suggests](https://fml.lol/fourth-pfizer-dose-is-insufficient-to-ward-off-omicron-israeli-trial-suggests/)
-- [Daniel Andrews warns of an imminent change to Australia&#39;s definition of &#39;fully vaccinated&#39;](https://fml.lol/daniel-andrews-warns-of-an-imminent-change-to-australias-definition-of-fully-vaccinated/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
