@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Canadian truckers are driving freedom home](https://fml.lol/canadian-truckers-are-driving-freedom-home/)
 - [Polish Activist Tries to Save &quot;Transgender Cow&quot; From Slaughter](https://fml.lol/polish-activist-tries-to-save-transgender-cow-from-slaughter/)
 - [Toddler Rapist Now Award-Winning Trans Rights Activist](https://fml.lol/toddler-rapist-now-award-winning-trans-rights-activist/)
 - [New Variant NeoCov announced by Chinese Scientists, apparently deadly](https://fml.lol/new-variant-neocov-announced-by-chinese-scientists-apparently-deadly/)
@@ -14,7 +15,6 @@
 - [Former soldier killed as homemade bomb explodes in Melbourne’s south-east](https://fml.lol/former-soldier-killed-as-homemade-bomb-explodes-in-melbournes-south-east/)
 - [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
 - [Policy Is All Wrong! Says Top Immunologist](https://fml.lol/policy-is-all-wrong-says-top-immunologist/)
-- [Australians Reject the ‘new normal’ with marches across the country](https://fml.lol/australians-reject-the-new-normal-with-marches-across-the-country/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
