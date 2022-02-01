@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Australians who died of COVID-19 had a serious pre-existing condition, data shows](https://fml.lol/most-australians-who-died-of-covid-19-had-a-serious-pre-existing-condition-data-shows/)
+- [James Blunt threatens to release new music if Spotify doesn’t remove Joe Rogan’s podcast](https://fml.lol/james-blunt-threatens-to-release-new-music-if-spotify-doesnt-remove-joe-rogans-podcast/)
 - [Qld integrity commissioner resigns](https://fml.lol/qld-integrity-commissioner-resigns/)
 - [Canadian truckers are driving freedom home](https://fml.lol/canadian-truckers-are-driving-freedom-home/)
 - [Polish Activist Tries to Save &quot;Transgender Cow&quot; From Slaughter](https://fml.lol/polish-activist-tries-to-save-transgender-cow-from-slaughter/)
@@ -13,8 +15,6 @@
 - [Will the old world order end in Ukraine?](https://fml.lol/will-the-old-world-order-end-in-ukraine/)
 - [Insurance Companies Note Jump In Death Payouts Amid 40% Rise Among Prime-Age Americans](https://fml.lol/insurance-companies-note-jump-in-death-payouts-amid-40-rise-among-prime-age-americans/)
 - [Documents Showing Ivermectin and Hydroxychloroquine Effective in Treating COVID Were Buried](https://fml.lol/documents-showing-ivermectin-and-hydroxychloroquine-effective-in-treating-covid-were-buried/)
-- [Former soldier killed as homemade bomb explodes in Melbourne’s south-east](https://fml.lol/former-soldier-killed-as-homemade-bomb-explodes-in-melbournes-south-east/)
-- [Natural wines: how are they made and what’s the deal with sulfites? An expert explains](https://fml.lol/natural-wines-how-are-they-made/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
