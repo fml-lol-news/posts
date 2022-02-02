@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Huge Brawl at The Golden Corral over a Steak Shortage](https://fml.lol/huge-brawl-at-the-golden-corral-over-a-steak-shortage/)
+- [Craob X Is An Insanely Thin, Light And Portless Alder Lake Laptop With A Unique Twist](https://fml.lol/craob-x-is-an-insanely-thin-light-and-portless-alder-lake-laptop-with-a-unique-twist/)
 - [Official German Government data suggests the Fully Vaccinated will develop Acquired Immunodeficiency Syndrome](https://fml.lol/official-german-government-data-suggests-the-fully-vaccinated-will-develop-acquired-immunodeficiency-syndrome/)
 - [Fourth Turning 2022 - Bad Moon Rising](https://fml.lol/fourth-turning-2022-bad-moon-rising/)
 - [NeoCov is a potential bio-weapon](https://fml.lol/neocov-is-a-potential-bio-weapon/)
@@ -13,8 +15,6 @@
 - [Toddler Rapist Now Award-Winning Trans Rights Activist](https://fml.lol/toddler-rapist-now-award-winning-trans-rights-activist/)
 - [New Variant NeoCov announced by Chinese Scientists, apparently deadly](https://fml.lol/new-variant-neocov-announced-by-chinese-scientists-apparently-deadly/)
 - [Switzerland Cancels Vaccine Passports](https://fml.lol/switzerland-cancels-vaccine-passports/)
-- [Facebooks New AI Supercomputer Will Be Used to Censor Speech](https://fml.lol/facebooks-new-ai-supercomputer-will-be-used-to-censor-speech/)
-- [The Spectacular Failure of COVID Shots](https://fml.lol/the-spectacular-failure-of-covid-shots/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
