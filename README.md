@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Police arrest three people in Canberra as convoy protests continue for third day](https://fml.lol/police-arrest-three-people-in-canberra-as-convoy-protests-continue-for-third-day/)
 - [Huge Brawl at The Golden Corral over a Steak Shortage](https://fml.lol/huge-brawl-at-the-golden-corral-over-a-steak-shortage/)
 - [Craob X Is An Insanely Thin, Light And Portless Alder Lake Laptop With A Unique Twist](https://fml.lol/craob-x-is-an-insanely-thin-light-and-portless-alder-lake-laptop-with-a-unique-twist/)
 - [Official German Government data suggests the Fully Vaccinated will develop Acquired Immunodeficiency Syndrome](https://fml.lol/official-german-government-data-suggests-the-fully-vaccinated-will-develop-acquired-immunodeficiency-syndrome/)
@@ -14,7 +15,6 @@
 - [Polish Activist Tries to Save &quot;Transgender Cow&quot; From Slaughter](https://fml.lol/polish-activist-tries-to-save-transgender-cow-from-slaughter/)
 - [Toddler Rapist Now Award-Winning Trans Rights Activist](https://fml.lol/toddler-rapist-now-award-winning-trans-rights-activist/)
 - [New Variant NeoCov announced by Chinese Scientists, apparently deadly](https://fml.lol/new-variant-neocov-announced-by-chinese-scientists-apparently-deadly/)
-- [Switzerland Cancels Vaccine Passports](https://fml.lol/switzerland-cancels-vaccine-passports/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
