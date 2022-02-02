@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Official German Government data suggests the Fully Vaccinated will develop Acquired Immunodeficiency Syndrome](https://fml.lol/official-german-government-data-suggests-the-fully-vaccinated-will-develop-acquired-immunodeficiency-syndrome/)
 - [Fourth Turning 2022 - Bad Moon Rising](https://fml.lol/fourth-turning-2022-bad-moon-rising/)
 - [NeoCov is a potential bio-weapon](https://fml.lol/neocov-is-a-potential-bio-weapon/)
 - [The plot against natural immunity](https://fml.lol/the-plot-against-natural-immunity/)
@@ -14,7 +15,6 @@
 - [Switzerland Cancels Vaccine Passports](https://fml.lol/switzerland-cancels-vaccine-passports/)
 - [Facebooks New AI Supercomputer Will Be Used to Censor Speech](https://fml.lol/facebooks-new-ai-supercomputer-will-be-used-to-censor-speech/)
 - [The Spectacular Failure of COVID Shots](https://fml.lol/the-spectacular-failure-of-covid-shots/)
-- [Oppressive COVID Measures for the Unvaccinated Were Based on ‘Software’ Error, Claims German Minister](https://fml.lol/oppressive-covid-measures-for-the-unvaccinated-were-based-on-software-error-claims-german-minister/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
