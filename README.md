@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Newspeak and rewriting history](https://fml.lol/newspeak-and-rewriting-history/)
 - [Police arrest three people in Canberra as convoy protests continue for third day](https://fml.lol/police-arrest-three-people-in-canberra-as-convoy-protests-continue-for-third-day/)
 - [Huge Brawl at The Golden Corral over a Steak Shortage](https://fml.lol/huge-brawl-at-the-golden-corral-over-a-steak-shortage/)
 - [Craob X Is An Insanely Thin, Light And Portless Alder Lake Laptop With A Unique Twist](https://fml.lol/craob-x-is-an-insanely-thin-light-and-portless-alder-lake-laptop-with-a-unique-twist/)
@@ -14,7 +15,6 @@
 - [Canadian truckers are driving freedom home](https://fml.lol/canadian-truckers-are-driving-freedom-home/)
 - [Polish Activist Tries to Save &quot;Transgender Cow&quot; From Slaughter](https://fml.lol/polish-activist-tries-to-save-transgender-cow-from-slaughter/)
 - [Toddler Rapist Now Award-Winning Trans Rights Activist](https://fml.lol/toddler-rapist-now-award-winning-trans-rights-activist/)
-- [New Variant NeoCov announced by Chinese Scientists, apparently deadly](https://fml.lol/new-variant-neocov-announced-by-chinese-scientists-apparently-deadly/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
