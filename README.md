@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Relief for Australian media during COVID-19](https://fml.lol/relief-for-australian-media-during-covid-19/)
 - [Onlyfans slurry flips out in Canberra](https://fml.lol/onlyfans-slurry-flips-out-in-canberra/)
 - [Around 70 more Joe Rogan episodes have disappeared from Spotify](https://fml.lol/around-70-more-joe-rogan-episodes-have-disappeared-from-spotify/)
 - [Newspeak and rewriting history](https://fml.lol/newspeak-and-rewriting-history/)
@@ -14,7 +15,6 @@
 - [Most Australians who died of COVID-19 had a serious pre-existing condition, data shows](https://fml.lol/most-australians-who-died-of-covid-19-had-a-serious-pre-existing-condition-data-shows/)
 - [James Blunt threatens to release new music if Spotify doesn’t remove Joe Rogan’s podcast](https://fml.lol/james-blunt-threatens-to-release-new-music-if-spotify-doesnt-remove-joe-rogans-podcast/)
 - [Qld integrity commissioner resigns](https://fml.lol/qld-integrity-commissioner-resigns/)
-- [Canadian truckers are driving freedom home](https://fml.lol/canadian-truckers-are-driving-freedom-home/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
