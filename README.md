@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook exposes &#39;god mode&#39; token that could siphon data](https://fml.lol/facebook-exposes-god-mode-token-that-could-siphon-data/)
+- [Meat Is Racist, Sexist, and White Supremacist](https://fml.lol/meat-is-racist-sexist-and-white-supremacist/)
 - [Relief for Australian media during COVID-19](https://fml.lol/relief-for-australian-media-during-covid-19/)
 - [Onlyfans slurry flips out in Canberra](https://fml.lol/onlyfans-slurry-flips-out-in-canberra/)
 - [Around 70 more Joe Rogan episodes have disappeared from Spotify](https://fml.lol/around-70-more-joe-rogan-episodes-have-disappeared-from-spotify/)
@@ -13,8 +15,6 @@
 - [The plot against natural immunity](https://fml.lol/the-plot-against-natural-immunity/)
 - [Mask Wearing Caused 364% Increase In Patient Referrals Of Toddlers Says Speech Therapist](https://fml.lol/mask-wearing-caused-364-increase-in-patient-referrals-of-toddlers-says-speech-therapist/)
 - [Most Australians who died of COVID-19 had a serious pre-existing condition, data shows](https://fml.lol/most-australians-who-died-of-covid-19-had-a-serious-pre-existing-condition-data-shows/)
-- [James Blunt threatens to release new music if Spotify doesn’t remove Joe Rogan’s podcast](https://fml.lol/james-blunt-threatens-to-release-new-music-if-spotify-doesnt-remove-joe-rogans-podcast/)
-- [Qld integrity commissioner resigns](https://fml.lol/qld-integrity-commissioner-resigns/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
