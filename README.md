@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [World Domination By A Few Families Through Mindspace and Mind Control](https://fml.lol/world-domination-by-a-few-families-through-mindspace-and-mind-control/)
+- [Welcome to a ‘Brave New Australia’](https://fml.lol/welcome-to-a-brave-new-australia/)
 - [Facebook exposes &#39;god mode&#39; token that could siphon data](https://fml.lol/facebook-exposes-god-mode-token-that-could-siphon-data/)
 - [Meat Is Racist, Sexist, and White Supremacist](https://fml.lol/meat-is-racist-sexist-and-white-supremacist/)
 - [Relief for Australian media during COVID-19](https://fml.lol/relief-for-australian-media-during-covid-19/)
@@ -13,8 +15,6 @@
 - [Fourth Turning 2022 - Bad Moon Rising](https://fml.lol/fourth-turning-2022-bad-moon-rising/)
 - [NeoCov is a potential bio-weapon](https://fml.lol/neocov-is-a-potential-bio-weapon/)
 - [The plot against natural immunity](https://fml.lol/the-plot-against-natural-immunity/)
-- [Mask Wearing Caused 364% Increase In Patient Referrals Of Toddlers Says Speech Therapist](https://fml.lol/mask-wearing-caused-364-increase-in-patient-referrals-of-toddlers-says-speech-therapist/)
-- [Most Australians who died of COVID-19 had a serious pre-existing condition, data shows](https://fml.lol/most-australians-who-died-of-covid-19-had-a-serious-pre-existing-condition-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
