@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [NSW data breach sees more than 500,000 QR code check-in addresses published](https://fml.lol/nsw-data-breach-sees-more-than-500-000-qr-code-check-in-addresses-published/)
 - [World Domination By A Few Families Through Mindspace and Mind Control](https://fml.lol/world-domination-by-a-few-families-through-mindspace-and-mind-control/)
 - [Welcome to a ‘Brave New Australia’](https://fml.lol/welcome-to-a-brave-new-australia/)
 - [Facebook exposes &#39;god mode&#39; token that could siphon data](https://fml.lol/facebook-exposes-god-mode-token-that-could-siphon-data/)
@@ -14,7 +15,6 @@
 - [Official German Government data suggests the Fully Vaccinated will develop Acquired Immunodeficiency Syndrome](https://fml.lol/official-german-government-data-suggests-the-fully-vaccinated-will-develop-acquired-immunodeficiency-syndrome/)
 - [Fourth Turning 2022 - Bad Moon Rising](https://fml.lol/fourth-turning-2022-bad-moon-rising/)
 - [NeoCov is a potential bio-weapon](https://fml.lol/neocov-is-a-potential-bio-weapon/)
-- [The plot against natural immunity](https://fml.lol/the-plot-against-natural-immunity/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
