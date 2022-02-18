@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorry Freedom Convoy, fundraisers are only for left-wing criminals](https://fml.lol/sorry-freedom-convoy-fundraisers-are-only-for-left-wing-criminals/)
+- [University Backtracks After Encouraging Staff To Use ‘Neopronouns’, ‘Emojiself,’ And ‘Catgender’ Terms](https://fml.lol/university-backtracks-after-encouraging-staff-to-use-neopronouns-emojiself-and-catgender-terms/)
+- [Eight countries jointly propose principles for mutual recognition of digital IDs](https://fml.lol/eight-countries-jointly-propose-principles-for-mutual-recognition-of-digital-ids/)
 - [Underlying health issues involved in 92 per cent of Aussie Covid deaths](https://fml.lol/underlying-health-issues-involved-in-92-per-cent-of-aussie-covid-deaths/)
 - [NSW data breach sees more than 500,000 QR code check-in addresses published](https://fml.lol/nsw-data-breach-sees-more-than-500-000-qr-code-check-in-addresses-published/)
 - [World Domination By A Few Families Through Mindspace and Mind Control](https://fml.lol/world-domination-by-a-few-families-through-mindspace-and-mind-control/)
@@ -12,9 +15,6 @@
 - [Newspeak and rewriting history](https://fml.lol/newspeak-and-rewriting-history/)
 - [Police arrest three people in Canberra as convoy protests continue for third day](https://fml.lol/police-arrest-three-people-in-canberra-as-convoy-protests-continue-for-third-day/)
 - [Huge Brawl at The Golden Corral over a Steak Shortage](https://fml.lol/huge-brawl-at-the-golden-corral-over-a-steak-shortage/)
-- [Craob X Is An Insanely Thin, Light And Portless Alder Lake Laptop With A Unique Twist](https://fml.lol/craob-x-is-an-insanely-thin-light-and-portless-alder-lake-laptop-with-a-unique-twist/)
-- [Official German Government data suggests the Fully Vaccinated will develop Acquired Immunodeficiency Syndrome](https://fml.lol/official-german-government-data-suggests-the-fully-vaccinated-will-develop-acquired-immunodeficiency-syndrome/)
-- [Fourth Turning 2022 - Bad Moon Rising](https://fml.lol/fourth-turning-2022-bad-moon-rising/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
