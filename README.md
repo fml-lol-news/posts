@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Rogan vs Spotify - the internet&#39;s irreconcilable crisis of narratives](https://fml.lol/rogan-vs-spotify-the-internets-irreconcilable-crisis-of-narratives/)
 - [Sorry Freedom Convoy, fundraisers are only for left-wing criminals](https://fml.lol/sorry-freedom-convoy-fundraisers-are-only-for-left-wing-criminals/)
 - [University Backtracks After Encouraging Staff To Use ‘Neopronouns’, ‘Emojiself,’ And ‘Catgender’ Terms](https://fml.lol/university-backtracks-after-encouraging-staff-to-use-neopronouns-emojiself-and-catgender-terms/)
 - [Eight countries jointly propose principles for mutual recognition of digital IDs](https://fml.lol/eight-countries-jointly-propose-principles-for-mutual-recognition-of-digital-ids/)
@@ -14,7 +15,6 @@
 - [Around 70 more Joe Rogan episodes have disappeared from Spotify](https://fml.lol/around-70-more-joe-rogan-episodes-have-disappeared-from-spotify/)
 - [Newspeak and rewriting history](https://fml.lol/newspeak-and-rewriting-history/)
 - [Police arrest three people in Canberra as convoy protests continue for third day](https://fml.lol/police-arrest-three-people-in-canberra-as-convoy-protests-continue-for-third-day/)
-- [Huge Brawl at The Golden Corral over a Steak Shortage](https://fml.lol/huge-brawl-at-the-golden-corral-over-a-steak-shortage/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
