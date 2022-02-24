@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Trudeau Revokes Emergency Powers Act](https://fml.lol/trudeau-revokes-emergency-powers-act/)
+- [Australian Media Deletes Video Suggesting Queen May Have Used Ivermectin To Treat Covid](https://fml.lol/aussie-msm-deletes-video-suggesting-queen-may-have-used-ivermectin-to-treat-covid/)
 - [World Economic Forum pushes digital ID system that will determine access to services](https://fml.lol/world-economic-forum-pushes-digital-id-system-that-will-determine-access-to-services/)
 - [Canada: Coinbase and Kraken CEOs reported to police over tweets supporting civil liberties, crypto wallets](https://fml.lol/canada-coinbase-and-kraken-ceos-reported-to-police-over-tweets-supporting-civil-liberties-crypto-wallets/)
 - [See the CDC corruption for yourself](https://fml.lol/see-the-cdc-corruption-for-yourself/)
@@ -13,8 +15,6 @@
 - [University Backtracks After Encouraging Staff To Use ‘Neopronouns’, ‘Emojiself,’ And ‘Catgender’ Terms](https://fml.lol/university-backtracks-after-encouraging-staff-to-use-neopronouns-emojiself-and-catgender-terms/)
 - [Eight countries jointly propose principles for mutual recognition of digital IDs](https://fml.lol/eight-countries-jointly-propose-principles-for-mutual-recognition-of-digital-ids/)
 - [Underlying health issues involved in 92 per cent of Aussie Covid deaths](https://fml.lol/underlying-health-issues-involved-in-92-per-cent-of-aussie-covid-deaths/)
-- [NSW data breach sees more than 500,000 QR code check-in addresses published](https://fml.lol/nsw-data-breach-sees-more-than-500-000-qr-code-check-in-addresses-published/)
-- [World Domination By A Few Families Through Mindspace and Mind Control](https://fml.lol/world-domination-by-a-few-families-through-mindspace-and-mind-control/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
