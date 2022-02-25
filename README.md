@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Russia Is Showing Us A New Kind Of War In Two Ways](https://fml.lol/russia-is-showing-us-a-new-kind-of-war-in-two-ways/)
+- [Ukraine&#39;s Comedian-turned-president Stars In Crisis](https://fml.lol/ukraines-comedian-turned-president-stars-in-crisis/)
 - [Trudeau Revokes Emergency Powers Act](https://fml.lol/trudeau-revokes-emergency-powers-act/)
 - [Australian Media Deletes Video Suggesting Queen May Have Used Ivermectin To Treat Covid](https://fml.lol/aussie-msm-deletes-video-suggesting-queen-may-have-used-ivermectin-to-treat-covid/)
 - [World Economic Forum pushes digital ID system that will determine access to services](https://fml.lol/world-economic-forum-pushes-digital-id-system-that-will-determine-access-to-services/)
@@ -13,8 +15,6 @@
 - [Rogan vs Spotify - the internet&#39;s irreconcilable crisis of narratives](https://fml.lol/rogan-vs-spotify-the-internets-irreconcilable-crisis-of-narratives/)
 - [Sorry Freedom Convoy, fundraisers are only for left-wing criminals](https://fml.lol/sorry-freedom-convoy-fundraisers-are-only-for-left-wing-criminals/)
 - [University Backtracks After Encouraging Staff To Use ‘Neopronouns’, ‘Emojiself,’ And ‘Catgender’ Terms](https://fml.lol/university-backtracks-after-encouraging-staff-to-use-neopronouns-emojiself-and-catgender-terms/)
-- [Eight countries jointly propose principles for mutual recognition of digital IDs](https://fml.lol/eight-countries-jointly-propose-principles-for-mutual-recognition-of-digital-ids/)
-- [Underlying health issues involved in 92 per cent of Aussie Covid deaths](https://fml.lol/underlying-health-issues-involved-in-92-per-cent-of-aussie-covid-deaths/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
