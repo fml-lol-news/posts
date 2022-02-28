@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Moderna patented component of Coronavirus three years before pandemic](https://fml.lol/moderna-patented-component-of-coronavirus-three-years-before-pandemic/)
 - [Pfizer is Funding Facebook’s Fact-Checking Partner](https://fml.lol/pfizer-is-funding-facebooks-fact-checking-partner/)
 - [Russia Is Showing Us A New Kind Of War In Two Ways](https://fml.lol/russia-is-showing-us-a-new-kind-of-war-in-two-ways/)
 - [Ukraine&#39;s Comedian-turned-president Stars In Crisis](https://fml.lol/ukraines-comedian-turned-president-stars-in-crisis/)
@@ -14,7 +15,6 @@
 - [Pfizer &amp; Moderna Investors Run for the Exits](https://fml.lol/pfizer/)
 - [Worst. Olympics. Ever.](https://fml.lol/worst-olympics-ever/)
 - [Rogan vs Spotify - the internet&#39;s irreconcilable crisis of narratives](https://fml.lol/rogan-vs-spotify-the-internets-irreconcilable-crisis-of-narratives/)
-- [Sorry Freedom Convoy, fundraisers are only for left-wing criminals](https://fml.lol/sorry-freedom-convoy-fundraisers-are-only-for-left-wing-criminals/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
