@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Queensland Cloud Seeding Project Underway](https://fml.lol/queensland-cloud-seeding-project-underway/)
 - [Woolworths to start sacking unvaccinated staff](https://fml.lol/woolworths-to-start-sacking-unvaccinated-staff/)
 - [Moderna patented component of Coronavirus three years before pandemic](https://fml.lol/moderna-patented-component-of-coronavirus-three-years-before-pandemic/)
 - [Pfizer is Funding Facebook’s Fact-Checking Partner](https://fml.lol/pfizer-is-funding-facebooks-fact-checking-partner/)
@@ -14,7 +15,6 @@
 - [Google-Funded ‘Fact Check’ Team is a Handful of Indians With No Experience in Journalism in a Small Town Near Bangladesh](https://fml.lol/a-google-funded-fact-check-team-is-a-handful-of-indians-with-no-experience-in-journalism-in-a-small-town-near-bangladesh/)
 - [NIH Sent The Intercept 292 Fully Redacted Pages Related to Virus Research In Wuhan](https://fml.lol/nih-sent-the-intercept-292-fully-redacted-pages-related-to-virus-research-in-wuhan/)
 - [Pfizer &amp; Moderna Investors Run for the Exits](https://fml.lol/pfizer/)
-- [Worst. Olympics. Ever.](https://fml.lol/worst-olympics-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
