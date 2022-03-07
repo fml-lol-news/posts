@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Australia has started using its anti-encryption laws to force companies to hand over data](https://fml.lol/australia-has-started-using-its-anti-encryption-laws-to-force-companies-to-hand-over-data/)
+- [South Australia Scraps Vaccine Mandate for Police](https://fml.lol/south-australia-scraps-vaccine-mandate-for-police/)
+- [Researchers Working On Algorithm To Diagnose You With Mental Illness Based On Internet Posts](https://fml.lol/researchers-working-on-algorithm-to-diagnose-you-with-mental-illness-based-on-internet-posts/)
 - [Western News Corporations Pull Out Of Russia Fearing 15 Years Jail For Spreading Fake News](https://fml.lol/western-news-organizations-pull-out-of-russia-fearing-15-years-jail-for-spreading-fake-news/)
 - [ADF caught staging social media PR during flood recovery](https://fml.lol/adf-caught-staging-social-media-pr-during-flood-recovery/)
 - [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
@@ -12,9 +15,6 @@
 - [Trudeau Revokes Emergency Powers Act](https://fml.lol/trudeau-revokes-emergency-powers-act/)
 - [Australian Media Deletes Video Suggesting Queen May Have Used Ivermectin To Treat Covid](https://fml.lol/aussie-msm-deletes-video-suggesting-queen-may-have-used-ivermectin-to-treat-covid/)
 - [World Economic Forum pushes digital ID system that will determine access to services](https://fml.lol/world-economic-forum-pushes-digital-id-system-that-will-determine-access-to-services/)
-- [Canada: Coinbase and Kraken CEOs reported to police over tweets supporting civil liberties, crypto wallets](https://fml.lol/canada-coinbase-and-kraken-ceos-reported-to-police-over-tweets-supporting-civil-liberties-crypto-wallets/)
-- [See the CDC corruption for yourself](https://fml.lol/see-the-cdc-corruption-for-yourself/)
-- [Pfizer Partnered With Wuhan-Linked Chinese Company Supplying ‘Military Combat’ Efforts](https://fml.lol/pfizer-partnered-with-wuhan-linked-chinese-company-supplying-military-combat-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
