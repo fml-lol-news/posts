@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung confirms Galaxy source code breach](https://fml.lol/samsung-confirms-galaxy-source-code-breach/)
+- [Friendlyjordies allegations against Dutton met with silence](https://fml.lol/friendlyjordies-allegations-against-dutton-met-with-silence/)
 - [Australia has started using its anti-encryption laws to force companies to hand over data](https://fml.lol/australia-has-started-using-its-anti-encryption-laws-to-force-companies-to-hand-over-data/)
 - [South Australia Scraps Vaccine Mandate for Police](https://fml.lol/south-australia-scraps-vaccine-mandate-for-police/)
 - [Researchers Working On Algorithm To Diagnose You With Mental Illness Based On Internet Posts](https://fml.lol/researchers-working-on-algorithm-to-diagnose-you-with-mental-illness-based-on-internet-posts/)
@@ -13,8 +15,6 @@
 - [Russia Is Showing Us A New Kind Of War In Two Ways](https://fml.lol/russia-is-showing-us-a-new-kind-of-war-in-two-ways/)
 - [Ukraine&#39;s Comedian-turned-president Stars In Crisis](https://fml.lol/ukraines-comedian-turned-president-stars-in-crisis/)
 - [Trudeau Revokes Emergency Powers Act](https://fml.lol/trudeau-revokes-emergency-powers-act/)
-- [Australian Media Deletes Video Suggesting Queen May Have Used Ivermectin To Treat Covid](https://fml.lol/aussie-msm-deletes-video-suggesting-queen-may-have-used-ivermectin-to-treat-covid/)
-- [World Economic Forum pushes digital ID system that will determine access to services](https://fml.lol/world-economic-forum-pushes-digital-id-system-that-will-determine-access-to-services/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
