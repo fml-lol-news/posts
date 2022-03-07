@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [ADF caught staging social media PR during flood recovery](https://fml.lol/adf-caught-staging-social-media-pr-during-flood-recovery/)
+- [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
 - [Queensland Cloud Seeding Project Underway](https://fml.lol/queensland-cloud-seeding-project-underway/)
 - [Woolworths to start sacking unvaccinated staff](https://fml.lol/woolworths-to-start-sacking-unvaccinated-staff/)
 - [Moderna patented component of Coronavirus three years before pandemic](https://fml.lol/moderna-patented-component-of-coronavirus-three-years-before-pandemic/)
@@ -13,8 +15,6 @@
 - [See the CDC corruption for yourself](https://fml.lol/see-the-cdc-corruption-for-yourself/)
 - [Pfizer Partnered With Wuhan-Linked Chinese Company Supplying ‘Military Combat’ Efforts](https://fml.lol/pfizer-partnered-with-wuhan-linked-chinese-company-supplying-military-combat-efforts/)
 - [Google-Funded ‘Fact Check’ Team is a Handful of Indians With No Experience in Journalism in a Small Town Near Bangladesh](https://fml.lol/a-google-funded-fact-check-team-is-a-handful-of-indians-with-no-experience-in-journalism-in-a-small-town-near-bangladesh/)
-- [NIH Sent The Intercept 292 Fully Redacted Pages Related to Virus Research In Wuhan](https://fml.lol/nih-sent-the-intercept-292-fully-redacted-pages-related-to-virus-research-in-wuhan/)
-- [Pfizer &amp; Moderna Investors Run for the Exits](https://fml.lol/pfizer/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
