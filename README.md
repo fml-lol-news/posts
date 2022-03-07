@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Western News Corporations Pull Out Of Russia Fearing 15 Years Jail For Spreading Fake News](https://fml.lol/western-news-organizations-pull-out-of-russia-fearing-15-years-jail-for-spreading-fake-news/)
 - [ADF caught staging social media PR during flood recovery](https://fml.lol/adf-caught-staging-social-media-pr-during-flood-recovery/)
 - [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
 - [Queensland Cloud Seeding Project Underway](https://fml.lol/queensland-cloud-seeding-project-underway/)
@@ -14,7 +15,6 @@
 - [Canada: Coinbase and Kraken CEOs reported to police over tweets supporting civil liberties, crypto wallets](https://fml.lol/canada-coinbase-and-kraken-ceos-reported-to-police-over-tweets-supporting-civil-liberties-crypto-wallets/)
 - [See the CDC corruption for yourself](https://fml.lol/see-the-cdc-corruption-for-yourself/)
 - [Pfizer Partnered With Wuhan-Linked Chinese Company Supplying ‘Military Combat’ Efforts](https://fml.lol/pfizer-partnered-with-wuhan-linked-chinese-company-supplying-military-combat-efforts/)
-- [Google-Funded ‘Fact Check’ Team is a Handful of Indians With No Experience in Journalism in a Small Town Near Bangladesh](https://fml.lol/a-google-funded-fact-check-team-is-a-handful-of-indians-with-no-experience-in-journalism-in-a-small-town-near-bangladesh/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
