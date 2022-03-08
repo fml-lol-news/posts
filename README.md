@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [US stocks plummet in worst day in over a year](https://fml.lol/us-stocks-plummet-in-worst-day-in-over-a-year/)
 - [Samsung confirms Galaxy source code breach](https://fml.lol/samsung-confirms-galaxy-source-code-breach/)
 - [Friendlyjordies allegations against Dutton met with silence](https://fml.lol/friendlyjordies-allegations-against-dutton-met-with-silence/)
 - [Australia has started using its anti-encryption laws to force companies to hand over data](https://fml.lol/australia-has-started-using-its-anti-encryption-laws-to-force-companies-to-hand-over-data/)
@@ -14,7 +15,6 @@
 - [Pfizer is Funding Facebook’s Fact-Checking Partner](https://fml.lol/pfizer-is-funding-facebooks-fact-checking-partner/)
 - [Russia Is Showing Us A New Kind Of War In Two Ways](https://fml.lol/russia-is-showing-us-a-new-kind-of-war-in-two-ways/)
 - [Ukraine&#39;s Comedian-turned-president Stars In Crisis](https://fml.lol/ukraines-comedian-turned-president-stars-in-crisis/)
-- [Trudeau Revokes Emergency Powers Act](https://fml.lol/trudeau-revokes-emergency-powers-act/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
