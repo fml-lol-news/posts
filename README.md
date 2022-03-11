@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
 - [Ukraine Is a Sacrificial Pawn on the Imperial Chessboard](https://fml.lol/ukraine-is-a-sacrificial-pawn-on-the-imperial-chessboard/)
 - [US stocks plummet in worst day in over a year](https://fml.lol/us-stocks-plummet-in-worst-day-in-over-a-year/)
 - [Samsung confirms Galaxy source code breach](https://fml.lol/samsung-confirms-galaxy-source-code-breach/)
@@ -14,7 +15,6 @@
 - [Woolworths to start sacking unvaccinated staff](https://fml.lol/woolworths-to-start-sacking-unvaccinated-staff/)
 - [Moderna patented component of Coronavirus three years before pandemic](https://fml.lol/moderna-patented-component-of-coronavirus-three-years-before-pandemic/)
 - [Pfizer is Funding Facebook’s Fact-Checking Partner](https://fml.lol/pfizer-is-funding-facebooks-fact-checking-partner/)
-- [Russia Is Showing Us A New Kind Of War In Two Ways](https://fml.lol/russia-is-showing-us-a-new-kind-of-war-in-two-ways/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
