@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Brave Search and Presearch say they don’t censor search results](https://fml.lol/brave-search-and-presearch-say-they-dont-censor-search-results/)
+- [DuckDuckGo ends neutrality, will down-rank sites “associated with Russian disinformation”](https://fml.lol/duckduckgo-ends-neutrality-will-down-rank-sites-associated-with-russian-disinformation/)
 - [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
 - [Russia Calls For UN Security Council Meeting Over Biological Activities In Ukraine](https://fml.lol/russia-calls-for-un-security-council-meeting-over-biological-activities-in-ukraine/)
 - [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
@@ -13,8 +15,6 @@
 - [Western News Corporations Pull Out Of Russia Fearing 15 Years Jail For Spreading Fake News](https://fml.lol/western-news-organizations-pull-out-of-russia-fearing-15-years-jail-for-spreading-fake-news/)
 - [ADF caught staging social media PR during flood recovery](https://fml.lol/adf-caught-staging-social-media-pr-during-flood-recovery/)
 - [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
-- [Queensland Cloud Seeding Project Underway](https://fml.lol/queensland-cloud-seeding-project-underway/)
-- [Woolworths to start sacking unvaccinated staff](https://fml.lol/woolworths-to-start-sacking-unvaccinated-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
