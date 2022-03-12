@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
+- [Russia Calls For UN Security Council Meeting Over Biological Activities In Ukraine](https://fml.lol/russia-calls-for-un-security-council-meeting-over-biological-activities-in-ukraine/)
 - [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
 - [Ukraine Is a Sacrificial Pawn on the Imperial Chessboard](https://fml.lol/ukraine-is-a-sacrificial-pawn-on-the-imperial-chessboard/)
 - [US stocks plummet in worst day in over a year](https://fml.lol/us-stocks-plummet-in-worst-day-in-over-a-year/)
@@ -13,8 +15,6 @@
 - [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
 - [Queensland Cloud Seeding Project Underway](https://fml.lol/queensland-cloud-seeding-project-underway/)
 - [Woolworths to start sacking unvaccinated staff](https://fml.lol/woolworths-to-start-sacking-unvaccinated-staff/)
-- [Moderna patented component of Coronavirus three years before pandemic](https://fml.lol/moderna-patented-component-of-coronavirus-three-years-before-pandemic/)
-- [Pfizer is Funding Facebook’s Fact-Checking Partner](https://fml.lol/pfizer-is-funding-facebooks-fact-checking-partner/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
