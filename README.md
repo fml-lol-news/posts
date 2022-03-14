@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Move to extend CHO’s draconian Covid powers slammed](https://fml.lol/move-to-extend-chos-draconian-covid-powers-slammed/)
 - [Brave Search and Presearch say they don’t censor search results](https://fml.lol/brave-search-and-presearch-say-they-dont-censor-search-results/)
 - [DuckDuckGo ends neutrality, will down-rank sites “associated with Russian disinformation”](https://fml.lol/duckduckgo-ends-neutrality-will-down-rank-sites-associated-with-russian-disinformation/)
 - [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
@@ -14,7 +15,6 @@
 - [Researchers Working On Algorithm To Diagnose You With Mental Illness Based On Internet Posts](https://fml.lol/researchers-working-on-algorithm-to-diagnose-you-with-mental-illness-based-on-internet-posts/)
 - [Western News Corporations Pull Out Of Russia Fearing 15 Years Jail For Spreading Fake News](https://fml.lol/western-news-organizations-pull-out-of-russia-fearing-15-years-jail-for-spreading-fake-news/)
 - [ADF caught staging social media PR during flood recovery](https://fml.lol/adf-caught-staging-social-media-pr-during-flood-recovery/)
-- [Pfizer COVID Vaccine Has 1291 Side Effects Reveals Released Documents](https://fml.lol/pfizer-covid-vaccine-has-1291-side-effects-reveals-released-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
