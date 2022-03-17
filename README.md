@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Preprint server accused of censorship for removing “inflammatory” scientific papers](https://fml.lol/preprint-server-accused-of-censorship-for-removing-inflammatory-scientific-papers/)
 - [Explosive emails expose Palaszczuk government](https://fml.lol/explosive-emails-expose-palaszczuk-government/)
 - [Move to extend CHO’s draconian Covid powers slammed](https://fml.lol/move-to-extend-chos-draconian-covid-powers-slammed/)
 - [Brave Search and Presearch say they don’t censor search results](https://fml.lol/brave-search-and-presearch-say-they-dont-censor-search-results/)
@@ -14,7 +15,6 @@
 - [Australia has started using its anti-encryption laws to force companies to hand over data](https://fml.lol/australia-has-started-using-its-anti-encryption-laws-to-force-companies-to-hand-over-data/)
 - [South Australia Scraps Vaccine Mandate for Police](https://fml.lol/south-australia-scraps-vaccine-mandate-for-police/)
 - [Researchers Working On Algorithm To Diagnose You With Mental Illness Based On Internet Posts](https://fml.lol/researchers-working-on-algorithm-to-diagnose-you-with-mental-illness-based-on-internet-posts/)
-- [Western News Corporations Pull Out Of Russia Fearing 15 Years Jail For Spreading Fake News](https://fml.lol/western-news-organizations-pull-out-of-russia-fearing-15-years-jail-for-spreading-fake-news/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
