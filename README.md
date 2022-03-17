@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [UTI Turns Out To Be Glass Cup That Was In Woman&#39;s Bladder For Four Years](https://fml.lol/uti-turns-out-to-be-glass-tumbler-that-was-in-her-bladder-for-four-years/)
+- [US Deploying Thousands of Marines to Australia’s Northern Territory to Prepare For Possibility of War With China](https://fml.lol/us-deploying-thousands-of-marines-to-australias-northern-territory-to-prepare-for-possibility-of-war-with-china/)
 - [Stocks, Gold, Cryptos Soar As Fed Hawkish Surprise Triggers Inversion, Countdown To Policy Error And Next Recession](https://fml.lol/stocks-gold-cryptos-soar-as-fed-hawkish-surprise-triggers-inversion-countdown-to-policy-error-and-next-recesssion/)
 - [Soros Worries About Putin-Xi Partnership, Hopes They Can Be Stopped](https://fml.lol/soros-worries-about-putin-xi-partnership-hopes-they-can-be-stopped/)
 - [Pfizer CEO Roasted On Social Media After Claiming 4th COVID Shot Is Necessary](https://fml.lol/pfizer-ceo-roasted-on-social-media-after-claiming-4th-covid-shot-is-necessary/)
@@ -13,8 +15,6 @@
 - [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
 - [Ukraine Is a Sacrificial Pawn on the Imperial Chessboard](https://fml.lol/ukraine-is-a-sacrificial-pawn-on-the-imperial-chessboard/)
 - [US stocks plummet in worst day in over a year](https://fml.lol/us-stocks-plummet-in-worst-day-in-over-a-year/)
-- [Samsung confirms Galaxy source code breach](https://fml.lol/samsung-confirms-galaxy-source-code-breach/)
-- [Friendlyjordies allegations against Dutton met with silence](https://fml.lol/friendlyjordies-allegations-against-dutton-met-with-silence/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
