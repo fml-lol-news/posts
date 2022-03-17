@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Stocks, Gold, Cryptos Soar As Fed Hawkish Surprise Triggers Inversion, Countdown To Policy Error And Next Recession](https://fml.lol/stocks-gold-cryptos-soar-as-fed-hawkish-surprise-triggers-inversion-countdown-to-policy-error-and-next-recesssion/)
+- [Soros Worries About Putin-Xi Partnership, Hopes They Can Be Stopped](https://fml.lol/soros-worries-about-putin-xi-partnership-hopes-they-can-be-stopped/)
+- [Pfizer CEO Roasted On Social Media After Claiming 4th COVID Shot Is Necessary](https://fml.lol/pfizer-ceo-roasted-on-social-media-after-claiming-4th-covid-shot-is-necessary/)
 - [Preprint server accused of censorship for removing “inflammatory” scientific papers](https://fml.lol/preprint-server-accused-of-censorship-for-removing-inflammatory-scientific-papers/)
 - [Explosive emails expose Palaszczuk government](https://fml.lol/explosive-emails-expose-palaszczuk-government/)
 - [Move to extend CHO’s draconian Covid powers slammed](https://fml.lol/move-to-extend-chos-draconian-covid-powers-slammed/)
@@ -12,9 +15,6 @@
 - [US stocks plummet in worst day in over a year](https://fml.lol/us-stocks-plummet-in-worst-day-in-over-a-year/)
 - [Samsung confirms Galaxy source code breach](https://fml.lol/samsung-confirms-galaxy-source-code-breach/)
 - [Friendlyjordies allegations against Dutton met with silence](https://fml.lol/friendlyjordies-allegations-against-dutton-met-with-silence/)
-- [Australia has started using its anti-encryption laws to force companies to hand over data](https://fml.lol/australia-has-started-using-its-anti-encryption-laws-to-force-companies-to-hand-over-data/)
-- [South Australia Scraps Vaccine Mandate for Police](https://fml.lol/south-australia-scraps-vaccine-mandate-for-police/)
-- [Researchers Working On Algorithm To Diagnose You With Mental Illness Based On Internet Posts](https://fml.lol/researchers-working-on-algorithm-to-diagnose-you-with-mental-illness-based-on-internet-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
