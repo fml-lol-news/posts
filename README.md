@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
 - [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
 - [UTI Turns Out To Be Glass Cup That Was In Woman&#39;s Bladder For Four Years](https://fml.lol/uti-turns-out-to-be-glass-tumbler-that-was-in-her-bladder-for-four-years/)
 - [US Deploying Thousands of Marines to Australia’s Northern Territory to Prepare For Possibility of War With China](https://fml.lol/us-deploying-thousands-of-marines-to-australias-northern-territory-to-prepare-for-possibility-of-war-with-china/)
@@ -14,7 +15,6 @@
 - [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
 - [Russia Calls For UN Security Council Meeting Over Biological Activities In Ukraine](https://fml.lol/russia-calls-for-un-security-council-meeting-over-biological-activities-in-ukraine/)
 - [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
-- [Ukraine Is a Sacrificial Pawn on the Imperial Chessboard](https://fml.lol/ukraine-is-a-sacrificial-pawn-on-the-imperial-chessboard/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
