@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Maintainer Sabotages Code to Wipe Russian, Belarusian Computers](https://fml.lol/open-source-maintainer-sabotages-code-to-wipe-russian-belarusian-computers/)
 - [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
 - [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
 - [UTI Turns Out To Be Glass Cup That Was In Woman&#39;s Bladder For Four Years](https://fml.lol/uti-turns-out-to-be-glass-tumbler-that-was-in-her-bladder-for-four-years/)
@@ -14,7 +15,6 @@
 - [DuckDuckGo ends neutrality, will down-rank sites “associated with Russian disinformation”](https://fml.lol/duckduckgo-ends-neutrality-will-down-rank-sites-associated-with-russian-disinformation/)
 - [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
 - [Russia Calls For UN Security Council Meeting Over Biological Activities In Ukraine](https://fml.lol/russia-calls-for-un-security-council-meeting-over-biological-activities-in-ukraine/)
-- [War In Ukraine Is The WEF’s Doorway To Global Technocracy](https://fml.lol/war-in-ukraine-is-the-wefs-doorway-to-global-technocracy/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
