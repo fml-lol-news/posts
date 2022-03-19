@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Coles to build a one-stop supplier platform on Salesforce](https://fml.lol/coles-to-build-a-one-stop-supplier-platform-on-salesforce/)
 - [Open Source Maintainer Sabotages Code to Wipe Russian, Belarusian Computers](https://fml.lol/open-source-maintainer-sabotages-code-to-wipe-russian-belarusian-computers/)
 - [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
 - [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
@@ -14,7 +15,6 @@
 - [Brave Search and Presearch say they don’t censor search results](https://fml.lol/brave-search-and-presearch-say-they-dont-censor-search-results/)
 - [DuckDuckGo ends neutrality, will down-rank sites “associated with Russian disinformation”](https://fml.lol/duckduckgo-ends-neutrality-will-down-rank-sites-associated-with-russian-disinformation/)
 - [Substack launches new app for reading newsletters and more](https://fml.lol/substack-launches-new-app-for-reading-newsletters-and-more/)
-- [Russia Calls For UN Security Council Meeting Over Biological Activities In Ukraine](https://fml.lol/russia-calls-for-un-security-council-meeting-over-biological-activities-in-ukraine/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
