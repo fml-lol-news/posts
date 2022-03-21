@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [The Babylon Bee Man Of The Year Is Rachel Levine](https://fml.lol/the-babylon-bee-man-of-the-year-is-rachel-levine/)
 - [Google will soon ask Australian users to show ID to view some content](https://fml.lol/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/)
 - [Brazil’s Supreme Court orders Telegram ban](https://fml.lol/brazils-supreme-court-orders-telegram-ban/)
 - [Media Fail to Retract ‘Russian Disinformation’ Claim About Hunter’s Laptop](https://fml.lol/media-fail-to-retract-russian-disinformation-claim-about-hunters-laptop/)
@@ -14,7 +15,6 @@
 - [Pfizer CEO Roasted On Social Media After Claiming 4th COVID Shot Is Necessary](https://fml.lol/pfizer-ceo-roasted-on-social-media-after-claiming-4th-covid-shot-is-necessary/)
 - [Preprint server accused of censorship for removing “inflammatory” scientific papers](https://fml.lol/preprint-server-accused-of-censorship-for-removing-inflammatory-scientific-papers/)
 - [Explosive emails expose Palaszczuk government](https://fml.lol/explosive-emails-expose-palaszczuk-government/)
-- [Move to extend CHO’s draconian Covid powers slammed](https://fml.lol/move-to-extend-chos-draconian-covid-powers-slammed/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
