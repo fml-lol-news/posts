@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [30 Australian Media Outlets Call on Facebook to Come to Bargaining Table](https://fml.lol/30-australian-media-outlets-call-on-facebook-to-come-to-bargaining-table/)
+- [Albury Wodonga Health declares Code Yellow](https://fml.lol/albury-wodonga-health-declares-code-yellow/)
 - [Australia is working on laws to censor internet “misinformation”](https://fml.lol/australia-is-working-on-laws-to-censor-internet-misinformation/)
 - [Zelensky orders the merging of Ukraine’s public broadcasters, citing martial law](https://fml.lol/zelensky-orders-the-merging-of-ukraines-public-broadcasters-citing-martial-law/)
 - [Lawmakers call for investigation over Hunter Biden laptop story censorship](https://fml.lol/lawmakers-call-for-investigation-over-hunter-biden-laptop-story-censorship/)
@@ -13,8 +15,6 @@
 - [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
 - [UTI Turns Out To Be Glass Cup That Was In Woman&#39;s Bladder For Four Years](https://fml.lol/uti-turns-out-to-be-glass-tumbler-that-was-in-her-bladder-for-four-years/)
 - [US Deploying Thousands of Marines to Australia’s Northern Territory to Prepare For Possibility of War With China](https://fml.lol/us-deploying-thousands-of-marines-to-australias-northern-territory-to-prepare-for-possibility-of-war-with-china/)
-- [Stocks, Gold, Cryptos Soar As Fed Hawkish Surprise Triggers Inversion, Countdown To Policy Error And Next Recession](https://fml.lol/stocks-gold-cryptos-soar-as-fed-hawkish-surprise-triggers-inversion-countdown-to-policy-error-and-next-recesssion/)
-- [Soros Worries About Putin-Xi Partnership, Hopes They Can Be Stopped](https://fml.lol/soros-worries-about-putin-xi-partnership-hopes-they-can-be-stopped/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
