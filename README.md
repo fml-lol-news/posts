@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Brian Houston resigns from Hillsong Church in wake of allegations](https://fml.lol/brian-houston-resigns-from-hillsong-church-in-wake-of-allegations/)
 - [Asahi Linux is an upcoming way to bring Linux to new Macs](https://fml.lol/asahi-linux-is-an-upcoming-way-to-bring-linux-to-new-macs/)
 - [Redditors shot dead in Ukraine conflict after volunteering to fight in “legion”](https://fml.lol/redditors-shot-dead-in-ukraine-conflict-after-volunteering-to-fight-in-legion/)
 - [Scooby Doo &amp; The Gang recreated as Antifa in anti-transphobia comic](https://fml.lol/scooby-doo/)
@@ -14,7 +15,6 @@
 - [Media Fail to Retract ‘Russian Disinformation’ Claim About Hunter’s Laptop](https://fml.lol/media-fail-to-retract-russian-disinformation-claim-about-hunters-laptop/)
 - [Coles to build a one-stop supplier platform on Salesforce](https://fml.lol/coles-to-build-a-one-stop-supplier-platform-on-salesforce/)
 - [Open Source Maintainer Sabotages Code to Wipe Russian, Belarusian Computers](https://fml.lol/open-source-maintainer-sabotages-code-to-wipe-russian-belarusian-computers/)
-- [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
