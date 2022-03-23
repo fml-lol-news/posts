@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Asahi Linux is an upcoming way to bring Linux to new Macs](https://fml.lol/asahi-linux-is-an-upcoming-way-to-bring-linux-to-new-macs/)
 - [Redditors shot dead in Ukraine conflict after volunteering to fight in “legion”](https://fml.lol/redditors-shot-dead-in-ukraine-conflict-after-volunteering-to-fight-in-legion/)
 - [Scooby Doo &amp; The Gang recreated as Antifa in anti-transphobia comic](https://fml.lol/scooby-doo/)
 - [30 Australian Media Outlets Call on Facebook to Come to Bargaining Table](https://fml.lol/30-australian-media-outlets-call-on-facebook-to-come-to-bargaining-table/)
@@ -14,7 +15,6 @@
 - [Coles to build a one-stop supplier platform on Salesforce](https://fml.lol/coles-to-build-a-one-stop-supplier-platform-on-salesforce/)
 - [Open Source Maintainer Sabotages Code to Wipe Russian, Belarusian Computers](https://fml.lol/open-source-maintainer-sabotages-code-to-wipe-russian-belarusian-computers/)
 - [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
-- [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
