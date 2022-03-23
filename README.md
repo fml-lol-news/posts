@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Redditors shot dead in Ukraine conflict after volunteering to fight in “legion”](https://fml.lol/redditors-shot-dead-in-ukraine-conflict-after-volunteering-to-fight-in-legion/)
+- [Scooby Doo &amp; The Gang recreated as Antifa in anti-transphobia comic](https://fml.lol/scooby-doo/)
 - [30 Australian Media Outlets Call on Facebook to Come to Bargaining Table](https://fml.lol/30-australian-media-outlets-call-on-facebook-to-come-to-bargaining-table/)
 - [Albury Wodonga Health declares Code Yellow](https://fml.lol/albury-wodonga-health-declares-code-yellow/)
 - [Australia is working on laws to censor internet “misinformation”](https://fml.lol/australia-is-working-on-laws-to-censor-internet-misinformation/)
@@ -13,8 +15,6 @@
 - [Open Source Maintainer Sabotages Code to Wipe Russian, Belarusian Computers](https://fml.lol/open-source-maintainer-sabotages-code-to-wipe-russian-belarusian-computers/)
 - [Inside the mRNA vaccine lab that is coming to Australia](https://fml.lol/inside-the-mrna-vaccine-lab-that-is-coming-to-australia/)
 - [The Names and Faces of WEF’s Young Global Leaders in Australia and New Zealand](https://fml.lol/the-names-and-faces-of-wefs-young-global-leaders-in-australia-and-new-zealand/)
-- [UTI Turns Out To Be Glass Cup That Was In Woman&#39;s Bladder For Four Years](https://fml.lol/uti-turns-out-to-be-glass-tumbler-that-was-in-her-bladder-for-four-years/)
-- [US Deploying Thousands of Marines to Australia’s Northern Territory to Prepare For Possibility of War With China](https://fml.lol/us-deploying-thousands-of-marines-to-australias-northern-territory-to-prepare-for-possibility-of-war-with-china/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
