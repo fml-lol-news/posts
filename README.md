@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Joe Rogan Discusses How West Has Done A Complete 180 On Ukraine](https://fml.lol/joe-rogan-exposes-how-west-has-done-a-complete-180-on-corrupt-ukraine/)
 - [Australia’s North at Risk of Attack: US Admiral](https://fml.lol/australias-north-at-risk-of-attack-us-admiral/)
 - [A Closer Look at the LAPSUS$ Data Extortion Group](https://fml.lol/a-closer-look-at-the-lapsus-data-extortion-group/)
 - [Politicians Of The World Unite!](https://fml.lol/politicians-of-the-world-unite/)
@@ -14,7 +15,6 @@
 - [Lawmakers call for investigation over Hunter Biden laptop story censorship](https://fml.lol/lawmakers-call-for-investigation-over-hunter-biden-laptop-story-censorship/)
 - [The Babylon Bee Man Of The Year Is Rachel Levine](https://fml.lol/the-babylon-bee-man-of-the-year-is-rachel-levine/)
 - [Google will soon ask Australian users to show ID to view some content](https://fml.lol/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/)
-- [Brazil’s Supreme Court orders Telegram ban](https://fml.lol/brazils-supreme-court-orders-telegram-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
