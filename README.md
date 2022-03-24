@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Australia’s North at Risk of Attack: US Admiral](https://fml.lol/australias-north-at-risk-of-attack-us-admiral/)
 - [A Closer Look at the LAPSUS$ Data Extortion Group](https://fml.lol/a-closer-look-at-the-lapsus-data-extortion-group/)
 - [Politicians Of The World Unite!](https://fml.lol/politicians-of-the-world-unite/)
 - [Brian Houston resigns from Hillsong Church in wake of allegations](https://fml.lol/brian-houston-resigns-from-hillsong-church-in-wake-of-allegations/)
@@ -14,7 +15,6 @@
 - [The Babylon Bee Man Of The Year Is Rachel Levine](https://fml.lol/the-babylon-bee-man-of-the-year-is-rachel-levine/)
 - [Google will soon ask Australian users to show ID to view some content](https://fml.lol/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/)
 - [Brazil’s Supreme Court orders Telegram ban](https://fml.lol/brazils-supreme-court-orders-telegram-ban/)
-- [Media Fail to Retract ‘Russian Disinformation’ Claim About Hunter’s Laptop](https://fml.lol/media-fail-to-retract-russian-disinformation-claim-about-hunters-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
