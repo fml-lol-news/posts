@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [UN Warning of Worst Global Food Crisis since World War 2](https://fml.lol/un-warning-of-global-food-crisis/)
 - [Scientists Developing Controversial Contagious Vaccines](https://fml.lol/scientists-developing-controversial-contagious-vaccines/)
 - [Your iPhone and iPad Could Be Your Next Subscription](https://fml.lol/your-iphone-and-ipad-could-be-your-next-subscription/)
 - [Joe Rogan Discusses How West Has Done A Complete 180 On Ukraine](https://fml.lol/joe-rogan-exposes-how-west-has-done-a-complete-180-on-corrupt-ukraine/)
@@ -14,7 +15,6 @@
 - [Albury Wodonga Health declares Code Yellow](https://fml.lol/albury-wodonga-health-declares-code-yellow/)
 - [Australia is working on laws to censor internet “misinformation”](https://fml.lol/australia-is-working-on-laws-to-censor-internet-misinformation/)
 - [Zelensky orders the merging of Ukraine’s public broadcasters, citing martial law](https://fml.lol/zelensky-orders-the-merging-of-ukraines-public-broadcasters-citing-martial-law/)
-- [Lawmakers call for investigation over Hunter Biden laptop story censorship](https://fml.lol/lawmakers-call-for-investigation-over-hunter-biden-laptop-story-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
