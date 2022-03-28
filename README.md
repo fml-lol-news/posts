@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [CSIRO and Nvidia to accelerate Australia&#39;s AI capabilities](https://fml.lol/csiro-and-nvidia-to-accelerate-australias-ai-capabilities/)
 - [UN Warning of Worst Global Food Crisis since World War 2](https://fml.lol/un-warning-of-global-food-crisis/)
 - [Scientists Developing Controversial Contagious Vaccines](https://fml.lol/scientists-developing-controversial-contagious-vaccines/)
 - [Your iPhone and iPad Could Be Your Next Subscription](https://fml.lol/your-iphone-and-ipad-could-be-your-next-subscription/)
@@ -14,7 +15,6 @@
 - [30 Australian Media Outlets Call on Facebook to Come to Bargaining Table](https://fml.lol/30-australian-media-outlets-call-on-facebook-to-come-to-bargaining-table/)
 - [Albury Wodonga Health declares Code Yellow](https://fml.lol/albury-wodonga-health-declares-code-yellow/)
 - [Australia is working on laws to censor internet “misinformation”](https://fml.lol/australia-is-working-on-laws-to-censor-internet-misinformation/)
-- [Zelensky orders the merging of Ukraine’s public broadcasters, citing martial law](https://fml.lol/zelensky-orders-the-merging-of-ukraines-public-broadcasters-citing-martial-law/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
