@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Malcolm Roberts Drops Bombshells in Senate After Covid Under Question Inquiry](https://fml.lol/malcolm-roberts-drops-bombshells-in-senate-after-covid-under-question-inquiry/)
 - [Lesbian Couple Sue Over Baby Being Boy](https://fml.lol/lesbian-couple-sue-over-baby-being-boy/)
 - [Replica AirTags can track you without warning](https://fml.lol/replica-airtags-can-track-you-without-warning/)
 - [Twitter censored Oxford academic who shared Daily Mail article about inflated Covid deaths](https://fml.lol/twitter-censored-oxford-academic-who-shared-daily-mail-article-about-inflated-covid-deaths/)
@@ -14,7 +15,6 @@
 - [Politicians Of The World Unite!](https://fml.lol/politicians-of-the-world-unite/)
 - [Brian Houston resigns from Hillsong Church in wake of allegations](https://fml.lol/brian-houston-resigns-from-hillsong-church-in-wake-of-allegations/)
 - [Asahi Linux is an upcoming way to bring Linux to new Macs](https://fml.lol/asahi-linux-is-an-upcoming-way-to-bring-linux-to-new-macs/)
-- [Redditors shot dead in Ukraine conflict after volunteering to fight in “legion”](https://fml.lol/redditors-shot-dead-in-ukraine-conflict-after-volunteering-to-fight-in-legion/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
