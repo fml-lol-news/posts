@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Australia needs a new beginning](https://fml.lol/australia-needs-a-new-beginning/)
+- [Ukrainian Civilians Being Used as Human Shields Continues](https://fml.lol/ukrainian-civilians-being-used-as-human-shields-continues/)
 - [Elon Musk buys 9.2% stake in Twitter](https://fml.lol/elon-musk-buys-stake-in-twitter/)
 - [Facebook bug led to news feeds being populated with misinformation for over half a year](https://fml.lol/facebook-bug-led-to-news-feeds-being-populated-with-misinformation-for-over-half-a-year/)
 - [Anthony Albanese says he aims to replicate Qld Premier Annastacia Palaszczuk in government if he becomes Prime Minister](https://fml.lol/anthony-albanese-says-he-aims-to-replicate-qld-premier-annastacia-palaszczuk-in-government-if-he-becomes-prime-minister/)
@@ -13,8 +15,6 @@
 - [Could Biden gaffe us into World War Three?](https://fml.lol/could-biden-gaffe-us-into-world-war-three/)
 - [CSIRO and Nvidia to accelerate Australia&#39;s AI capabilities](https://fml.lol/csiro-and-nvidia-to-accelerate-australias-ai-capabilities/)
 - [UN Warning of Worst Global Food Crisis since World War 2](https://fml.lol/un-warning-of-global-food-crisis/)
-- [Scientists Developing Controversial Contagious Vaccines](https://fml.lol/scientists-developing-controversial-contagious-vaccines/)
-- [Your iPhone and iPad Could Be Your Next Subscription](https://fml.lol/your-iphone-and-ipad-could-be-your-next-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
