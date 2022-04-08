@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Record breaking wave of Covid-19 across Australia sees deaths 1700% higher than the start of the Pandemic](https://fml.lol/record-breaking-wave-of-covid-19-across-australia-sees-deaths-1700-higher-than-the-start-of-the-pandemic/)
+- [Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks](https://fml.lol/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-by-banks/)
 - [Australia needs a new beginning](https://fml.lol/australia-needs-a-new-beginning/)
 - [Ukrainian Civilians Being Used as Human Shields Continues](https://fml.lol/ukrainian-civilians-being-used-as-human-shields-continues/)
 - [Elon Musk buys 9.2% stake in Twitter](https://fml.lol/elon-musk-buys-stake-in-twitter/)
@@ -13,8 +15,6 @@
 - [Replica AirTags can track you without warning](https://fml.lol/replica-airtags-can-track-you-without-warning/)
 - [Twitter censored Oxford academic who shared Daily Mail article about inflated Covid deaths](https://fml.lol/twitter-censored-oxford-academic-who-shared-daily-mail-article-about-inflated-covid-deaths/)
 - [Could Biden gaffe us into World War Three?](https://fml.lol/could-biden-gaffe-us-into-world-war-three/)
-- [CSIRO and Nvidia to accelerate Australia&#39;s AI capabilities](https://fml.lol/csiro-and-nvidia-to-accelerate-australias-ai-capabilities/)
-- [UN Warning of Worst Global Food Crisis since World War 2](https://fml.lol/un-warning-of-global-food-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
