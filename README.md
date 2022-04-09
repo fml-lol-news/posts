@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [The Coronazis: a superior race of the vaccinated](https://fml.lol/the-coronazis-a-superior-race-of-the-vaccinated/)
+- [CDC Renews COVID for a Third Season](https://fml.lol/cdc-renews-covid-for-a-third-season/)
 - [Record breaking wave of Covid-19 across Australia sees deaths 1700% higher than the start of the Pandemic](https://fml.lol/record-breaking-wave-of-covid-19-across-australia-sees-deaths-1700-higher-than-the-start-of-the-pandemic/)
 - [Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks](https://fml.lol/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-by-banks/)
 - [Australia needs a new beginning](https://fml.lol/australia-needs-a-new-beginning/)
@@ -13,8 +15,6 @@
 - [Malcolm Roberts Drops Bombshells in Senate After Covid Under Question Inquiry](https://fml.lol/malcolm-roberts-drops-bombshells-in-senate-after-covid-under-question-inquiry/)
 - [Lesbian Couple Sue Over Baby Being Boy](https://fml.lol/lesbian-couple-sue-over-baby-being-boy/)
 - [Replica AirTags can track you without warning](https://fml.lol/replica-airtags-can-track-you-without-warning/)
-- [Twitter censored Oxford academic who shared Daily Mail article about inflated Covid deaths](https://fml.lol/twitter-censored-oxford-academic-who-shared-daily-mail-article-about-inflated-covid-deaths/)
-- [Could Biden gaffe us into World War Three?](https://fml.lol/could-biden-gaffe-us-into-world-war-three/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
