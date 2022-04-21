@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Again Sounds Alarm Over Depopulation](https://fml.lol/elon-musk-again-sounds-alarm-over-depopulation/)
 - [UK judge formally approves Julian Assange’s extradition to the US](https://fml.lol/uk-judge-formally-approves-julian-assanges-extradition-to-the-us/)
 - [Vaccines may be administered opportunistically while patients are undergoing sedation for unrelated procedures](https://fml.lol/vaccines-may-be-administered-opportunistically-while-patients-are-undergoing-sedation-for-unrelated-procedures/)
 - [ATO ramps up its aggressive campaign against small and family businesses](https://fml.lol/ato-ramps-up-its-aggressive-campaign-against-small-and-family-businesses/)
@@ -14,7 +15,6 @@
 - [Elon Musk buys 9.2% stake in Twitter](https://fml.lol/elon-musk-buys-stake-in-twitter/)
 - [Facebook bug led to news feeds being populated with misinformation for over half a year](https://fml.lol/facebook-bug-led-to-news-feeds-being-populated-with-misinformation-for-over-half-a-year/)
 - [Anthony Albanese says he aims to replicate Qld Premier Annastacia Palaszczuk in government if he becomes Prime Minister](https://fml.lol/anthony-albanese-says-he-aims-to-replicate-qld-premier-annastacia-palaszczuk-in-government-if-he-becomes-prime-minister/)
-- [Apple, Meta and Discord handed over user data to fake emergency law enforcement requests](https://fml.lol/apple-and-meta-handed-over-user-data-to-fake-emergency-law-enforcement-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
