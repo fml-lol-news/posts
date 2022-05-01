@@ -1,5 +1,9 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [New bill aims to dissolve Biden administration’s Disinformation Governance Board](https://fml.lol/new-bill-aims-to-dissolve-biden-administrations-disinformation-governance-board/)
+- [India orders VPN providers to collect data on users](https://fml.lol/india-orders-vpn-providers-to-collect-data-on-users/)
+- [Corrupt Queensland Labor Party caught out](https://fml.lol/corrupt-queensland-labor-party-caught-out/)
+- [Why Do Food Processing Facilities Keep Catching Fire?](https://fml.lol/why-are-food-processing-facilities/)
 - [How Search Engine Results Can Be Distorted](https://fml.lol/how-search-engine-results-can-be-distorted/)
 - [How The Atlantic Council Pulled Over The COVID-19 Matrix On The World](https://fml.lol/how-the-atlantic-council-pulled-over-the-covid-19-matrix-on-the-world/)
 - [Russia Set To Implement Gold Standard For Ruble](https://fml.lol/russia-set-to-implement-gold-standard-for-ruble/)
@@ -11,10 +15,6 @@
 - [Twitter a hit show for employees since Elon Musk took major stake](https://fml.lol/twitter-a-hit-show-for-employees-since-elon-musk-took-major-stake/)
 - [WHO IHR treaty will override constitutions of Australia and America](https://fml.lol/who-ihr-treaty-will-override-constitutions-of-australia-and-america/)
 - [The Coronazis: a superior race of the vaccinated](https://fml.lol/the-coronazis-a-superior-race-of-the-vaccinated/)
-- [CDC Renews COVID for a Third Season](https://fml.lol/cdc-renews-covid-for-a-third-season/)
-- [Record breaking wave of Covid-19 across Australia sees deaths 1700% higher than the start of the Pandemic](https://fml.lol/record-breaking-wave-of-covid-19-across-australia-sees-deaths-1700-higher-than-the-start-of-the-pandemic/)
-- [Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks](https://fml.lol/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-by-banks/)
-- [Australia needs a new beginning](https://fml.lol/australia-needs-a-new-beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
