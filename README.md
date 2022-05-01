@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturn, Mars, Venus, and Jupiter to Align Sunday Morning](https://fml.lol/saturn-mars-venus-and-jupiter-to-align-sunday-morning/)
 - [New bill aims to dissolve Biden administration’s Disinformation Governance Board](https://fml.lol/new-bill-aims-to-dissolve-biden-administrations-disinformation-governance-board/)
 - [India orders VPN providers to collect data on users](https://fml.lol/india-orders-vpn-providers-to-collect-data-on-users/)
 - [Corrupt Queensland Labor Party caught out](https://fml.lol/corrupt-queensland-labor-party-caught-out/)
@@ -14,7 +15,6 @@
 - [ATO ramps up its aggressive campaign against small and family businesses](https://fml.lol/ato-ramps-up-its-aggressive-campaign-against-small-and-family-businesses/)
 - [Twitter a hit show for employees since Elon Musk took major stake](https://fml.lol/twitter-a-hit-show-for-employees-since-elon-musk-took-major-stake/)
 - [WHO IHR treaty will override constitutions of Australia and America](https://fml.lol/who-ihr-treaty-will-override-constitutions-of-australia-and-america/)
-- [The Coronazis: a superior race of the vaccinated](https://fml.lol/the-coronazis-a-superior-race-of-the-vaccinated/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
