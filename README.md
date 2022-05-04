@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [UK to install data loggers in new cars from July 2022](https://fml.lol/uk-to-install-data-loggers-in-new-cars-from-july-2022/)
 - [Why is TikTok Employing So Many National Security Agents?](https://fml.lol/why-is-tiktok-employing-so-many-national-security-agents/)
 - [Saturn, Mars, Venus, and Jupiter to Align Sunday Morning](https://fml.lol/saturn-mars-venus-and-jupiter-to-align-sunday-morning/)
 - [New bill aims to dissolve Biden administration’s Disinformation Governance Board](https://fml.lol/new-bill-aims-to-dissolve-biden-administrations-disinformation-governance-board/)
@@ -14,7 +15,6 @@
 - [UK judge formally approves Julian Assange’s extradition to the US](https://fml.lol/uk-judge-formally-approves-julian-assanges-extradition-to-the-us/)
 - [Vaccines may be administered opportunistically while patients are undergoing sedation for unrelated procedures](https://fml.lol/vaccines-may-be-administered-opportunistically-while-patients-are-undergoing-sedation-for-unrelated-procedures/)
 - [ATO ramps up its aggressive campaign against small and family businesses](https://fml.lol/ato-ramps-up-its-aggressive-campaign-against-small-and-family-businesses/)
-- [Twitter a hit show for employees since Elon Musk took major stake](https://fml.lol/twitter-a-hit-show-for-employees-since-elon-musk-took-major-stake/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
