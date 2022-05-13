@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
 - [Xi Jinping reportedly suffering from cerebral aneurysm](https://fml.lol/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/)
 - [Cyber Surveillance, Digital Subversion, and Transnational Repression](https://fml.lol/cyber-surveillance-digital-subversion-and-transnational-repression/)
 - [Australia’s Major Parties No Longer Stand for the People They Are Meant to Represent](https://fml.lol/australias-major-parties-no-longer-stand-for-the-people-they-are-meant-to-represent/)
@@ -14,7 +15,6 @@
 - [How Search Engine Results Can Be Distorted](https://fml.lol/how-search-engine-results-can-be-distorted/)
 - [How The Atlantic Council Pulled Over The COVID-19 Matrix On The World](https://fml.lol/how-the-atlantic-council-pulled-over-the-covid-19-matrix-on-the-world/)
 - [Russia Set To Implement Gold Standard For Ruble](https://fml.lol/russia-set-to-implement-gold-standard-for-ruble/)
-- [Reaction To Musk Offer Suggests Content Moderation More About Control Than Safety](https://fml.lol/reaction-to-musk-offer-suggests-content-moderation-more-about-control-than-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
