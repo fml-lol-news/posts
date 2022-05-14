@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Fifty shades of Covid](https://fml.lol/fifty-shades-of-covid/)
 - [“2000 Mules” documentary grosses over $1 million in 12 hours on Locals and Rumble, a big win for alt-tech](https://fml.lol/2000-mules-documentary-grosses-over-1-million-in-12-hours-on-locals-and-rumble-a-big-win-for-alt-tech/)
 - [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
 - [Xi Jinping reportedly suffering from cerebral aneurysm](https://fml.lol/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/)
@@ -14,7 +15,6 @@
 - [Corrupt Queensland Labor Party caught out](https://fml.lol/corrupt-queensland-labor-party-caught-out/)
 - [Why Do Food Processing Facilities Keep Catching Fire?](https://fml.lol/why-are-food-processing-facilities/)
 - [How Search Engine Results Can Be Distorted](https://fml.lol/how-search-engine-results-can-be-distorted/)
-- [How The Atlantic Council Pulled Over The COVID-19 Matrix On The World](https://fml.lol/how-the-atlantic-council-pulled-over-the-covid-19-matrix-on-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
