@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Large Crowds Across Australia Reject the Major Parties](https://fml.lol/large-crowds-across-australia-reject-the-major-parties/)
+- [Open Letter From Monica Smit to Clive Palmer: We Deserve Answers!](https://fml.lol/open-letter-from-monica-smit-to-clive-palmer-we-deserve-answers/)
 - [Fifty shades of Covid](https://fml.lol/fifty-shades-of-covid/)
 - [“2000 Mules” documentary grosses over $1 million in 12 hours on Locals and Rumble, a big win for alt-tech](https://fml.lol/2000-mules-documentary-grosses-over-1-million-in-12-hours-on-locals-and-rumble-a-big-win-for-alt-tech/)
 - [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
@@ -13,8 +15,6 @@
 - [New bill aims to dissolve Biden administration’s Disinformation Governance Board](https://fml.lol/new-bill-aims-to-dissolve-biden-administrations-disinformation-governance-board/)
 - [India orders VPN providers to collect data on users](https://fml.lol/india-orders-vpn-providers-to-collect-data-on-users/)
 - [Corrupt Queensland Labor Party caught out](https://fml.lol/corrupt-queensland-labor-party-caught-out/)
-- [Why Do Food Processing Facilities Keep Catching Fire?](https://fml.lol/why-are-food-processing-facilities/)
-- [How Search Engine Results Can Be Distorted](https://fml.lol/how-search-engine-results-can-be-distorted/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
