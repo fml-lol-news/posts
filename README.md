@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Alex Jones Predicted The White Supremacist False Flag Shooting At The Grocery Store](https://fml.lol/alex-jones-predicted-the-white-supremacist-false-flag-shooting-at-the-grocery-store/)
+- [Farming Sector ‘Out of Political Focus’](https://fml.lol/farming-sector-out-of-political-focus/)
 - [Large Crowds Across Australia Reject the Major Parties](https://fml.lol/large-crowds-across-australia-reject-the-major-parties/)
 - [Open Letter From Monica Smit to Clive Palmer: We Deserve Answers!](https://fml.lol/open-letter-from-monica-smit-to-clive-palmer-we-deserve-answers/)
 - [Fifty shades of Covid](https://fml.lol/fifty-shades-of-covid/)
@@ -13,8 +15,6 @@
 - [Why is TikTok Employing So Many National Security Agents?](https://fml.lol/why-is-tiktok-employing-so-many-national-security-agents/)
 - [Saturn, Mars, Venus, and Jupiter to Align Sunday Morning](https://fml.lol/saturn-mars-venus-and-jupiter-to-align-sunday-morning/)
 - [New bill aims to dissolve Biden administration’s Disinformation Governance Board](https://fml.lol/new-bill-aims-to-dissolve-biden-administrations-disinformation-governance-board/)
-- [India orders VPN providers to collect data on users](https://fml.lol/india-orders-vpn-providers-to-collect-data-on-users/)
-- [Corrupt Queensland Labor Party caught out](https://fml.lol/corrupt-queensland-labor-party-caught-out/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
