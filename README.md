@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [South Australia introduces prospect of jail time for breaking strict Covid restrictions](https://fml.lol/south-australia-introduces-prospect-of-jail-time-for-breaking-strict-covid-restrictions/)
+- [#Monkeypox: apocalypse 2.0](https://fml.lol/monkeypox-apocalypse-2-0/)
 - [Google’s DeepMind Achieves Human Level AI](https://fml.lol/googles-deepmind-achieves-human-level-ai/)
 - [Local Micro-Influencer Posts Photos Of Election Queue To Let Everyone Know She Compulsorily Voted](https://fml.lol/local-micro-influencer-posts-photos-of-election-queue-to-let-everyone-know-she-compulsorily-voted/)
 - [Australia set to sign Geneva’s Global Pandemic Treaty](https://fml.lol/australia-set-to-sign-genevas-global-pandemic-treaty/)
@@ -13,8 +15,6 @@
 - [Fifty shades of Covid](https://fml.lol/fifty-shades-of-covid/)
 - [“2000 Mules” documentary grosses over $1 million in 12 hours on Locals and Rumble, a big win for alt-tech](https://fml.lol/2000-mules-documentary-grosses-over-1-million-in-12-hours-on-locals-and-rumble-a-big-win-for-alt-tech/)
 - [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
-- [Xi Jinping reportedly suffering from cerebral aneurysm](https://fml.lol/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/)
-- [Cyber Surveillance, Digital Subversion, and Transnational Repression](https://fml.lol/cyber-surveillance-digital-subversion-and-transnational-repression/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
