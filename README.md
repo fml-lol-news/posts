@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s DeepMind Achieves Human Level AI](https://fml.lol/googles-deepmind-achieves-human-level-ai/)
+- [Local Micro-Influencer Posts Photos Of Election Queue To Let Everyone Know She Compulsorily Voted](https://fml.lol/local-micro-influencer-posts-photos-of-election-queue-to-let-everyone-know-she-compulsorily-voted/)
 - [Australia set to sign Geneva’s Global Pandemic Treaty](https://fml.lol/australia-set-to-sign-genevas-global-pandemic-treaty/)
 - [Kyle Sandilands Weighs in on Trans Debate](https://fml.lol/kyle-sandilands-weighs-in-on-trans-debate/)
 - [Twitter Does Not Believe In Free Speech](https://fml.lol/twitter-does-not-believe-in-free-speech/)
@@ -13,8 +15,6 @@
 - [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
 - [Xi Jinping reportedly suffering from cerebral aneurysm](https://fml.lol/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/)
 - [Cyber Surveillance, Digital Subversion, and Transnational Repression](https://fml.lol/cyber-surveillance-digital-subversion-and-transnational-repression/)
-- [Australia’s Major Parties No Longer Stand for the People They Are Meant to Represent](https://fml.lol/australias-major-parties-no-longer-stand-for-the-people-they-are-meant-to-represent/)
-- [Autonomous Chinese Drone Swarm Flies Through Forest Hunting For Humans](https://fml.lol/autonomous-chinese-drone-swarm-flies-through-forest-hunting-for-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
