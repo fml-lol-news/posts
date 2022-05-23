@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Audio Exposes China’s Plans For Global War](https://fml.lol/leaked-audio-exposes-chinas-plans-for-global-war/)
 - [South Australia introduces prospect of jail time for breaking strict Covid restrictions](https://fml.lol/south-australia-introduces-prospect-of-jail-time-for-breaking-strict-covid-restrictions/)
 - [#Monkeypox: apocalypse 2.0](https://fml.lol/monkeypox-apocalypse-2-0/)
 - [Google’s DeepMind Achieves Human Level AI](https://fml.lol/googles-deepmind-achieves-human-level-ai/)
@@ -14,7 +15,6 @@
 - [Open Letter From Monica Smit to Clive Palmer: We Deserve Answers!](https://fml.lol/open-letter-from-monica-smit-to-clive-palmer-we-deserve-answers/)
 - [Fifty shades of Covid](https://fml.lol/fifty-shades-of-covid/)
 - [“2000 Mules” documentary grosses over $1 million in 12 hours on Locals and Rumble, a big win for alt-tech](https://fml.lol/2000-mules-documentary-grosses-over-1-million-in-12-hours-on-locals-and-rumble-a-big-win-for-alt-tech/)
-- [New Calvin Klein Ad Claims Men Can Get Preggers Too](https://fml.lol/new-calvin-klein-ad-claims-men-can-get-preggers-too/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
