@@ -1,5 +1,9 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Trudeau wants new tools to tackle online misinformation](https://fml.lol/trudeau-wants-new-tools-to-tackle-online-misinformation/)
+- [Police Kill a Man in Back of Police Vehicle Using Makeshift Gas Chamber](https://fml.lol/police-kill-a-man-in-back-of-police-vehicle-using-makeshift-gas-chamber/)
+- [Nearly 4 million enrolled people did not vote or their votes have been ignored by the AEC](https://fml.lol/nearly-4-million-enrolled-people-did-not-vote-or-their-votes-have-been-ignored-by-the-aec/)
+- [Australia begins to reap what it has sown](https://fml.lol/australia-begins-to-reap-what-it-has-sown/)
 - [World Economic Forum Panelist Demands ‘Recalibration’ Of Free Speech.](https://fml.lol/world-economic-forum-panelist-demands-recalibration-of-free-speech/)
 - [Wuhan Bio Lab Carried Out Gain Of Function Research On Monkeypox Virus](https://fml.lol/wuhan-bio-lab-carried-out-gain-of-function-research-on-monkeypox-virus/)
 - [PRGuy and the future of the free press](https://fml.lol/prguy-and-the-future-of-the-free-press/)
@@ -11,10 +15,6 @@
 - [Australia set to sign Geneva’s Global Pandemic Treaty](https://fml.lol/australia-set-to-sign-genevas-global-pandemic-treaty/)
 - [Kyle Sandilands Weighs in on Trans Debate](https://fml.lol/kyle-sandilands-weighs-in-on-trans-debate/)
 - [Twitter Does Not Believe In Free Speech](https://fml.lol/twitter-does-not-believe-in-free-speech/)
-- [Over 120,000 Hunter Biden Emails Uploaded To Searchable Database](https://fml.lol/over-120-000-hunter-biden-emails-uploaded-to-searchable-database/)
-- [Alex Jones Predicted The White Supremacist False Flag Shooting At The Grocery Store](https://fml.lol/alex-jones-predicted-the-white-supremacist-false-flag-shooting-at-the-grocery-store/)
-- [Farming Sector ‘Out of Political Focus’](https://fml.lol/farming-sector-out-of-political-focus/)
-- [Large Crowds Across Australia Reject the Major Parties](https://fml.lol/large-crowds-across-australia-reject-the-major-parties/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
