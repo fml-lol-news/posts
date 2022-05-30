@@ -1,5 +1,8 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [‘We Are in Lock-Step With the US’: New Australian PM on Combating China’s Influence](https://fml.lol/we-are-in-lock-step-with-the-us-new-australian-pm-on-combating-chinas-influence/)
+- [Male Wins Aussie Women’s Surfing Title](https://fml.lol/male-wins-aussie-womens-surfing-title/)
+- [Dear Friends, Sorry to Announce a Genocide](https://fml.lol/dear-friends-sorry-to-announce-a-genocide/)
 - [Globalists Have Entered The Kill Phase Of The Great Reset](https://fml.lol/globalists-have-entered-the-kill-phase-of-the-great-reset/)
 - [Trudeau wants new tools to tackle online misinformation](https://fml.lol/trudeau-wants-new-tools-to-tackle-online-misinformation/)
 - [Police Kill a Man in Back of Police Vehicle Using Makeshift Gas Chamber](https://fml.lol/police-kill-a-man-in-back-of-police-vehicle-using-makeshift-gas-chamber/)
@@ -12,9 +15,6 @@
 - [South Australia introduces prospect of jail time for breaking strict Covid restrictions](https://fml.lol/south-australia-introduces-prospect-of-jail-time-for-breaking-strict-covid-restrictions/)
 - [#Monkeypox: apocalypse 2.0](https://fml.lol/monkeypox-apocalypse-2-0/)
 - [Google’s DeepMind Achieves Human Level AI](https://fml.lol/googles-deepmind-achieves-human-level-ai/)
-- [Local Micro-Influencer Posts Photos Of Election Queue To Let Everyone Know She Compulsorily Voted](https://fml.lol/local-micro-influencer-posts-photos-of-election-queue-to-let-everyone-know-she-compulsorily-voted/)
-- [Australia set to sign Geneva’s Global Pandemic Treaty](https://fml.lol/australia-set-to-sign-genevas-global-pandemic-treaty/)
-- [Kyle Sandilands Weighs in on Trans Debate](https://fml.lol/kyle-sandilands-weighs-in-on-trans-debate/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
