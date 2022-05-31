@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [This era of big tech exceptionalism has got to end: Australian eSafety Commissioner](https://fml.lol/this-era-of-big-tech-exceptionalism-has-got-to-end-australian-esafety-commissioner/)
+- [Queensland’s frontline workers begin legal challenges against vaccine mandates](https://fml.lol/queenslands-frontline-workers-begin-legal-challenges-against-vaccine-mandates/)
 - [‘We Are in Lock-Step With the US’: New Australian PM on Combating China’s Influence](https://fml.lol/we-are-in-lock-step-with-the-us-new-australian-pm-on-combating-chinas-influence/)
 - [Male Wins Aussie Women’s Surfing Title](https://fml.lol/male-wins-aussie-womens-surfing-title/)
 - [Dear Friends, Sorry to Announce a Genocide](https://fml.lol/dear-friends-sorry-to-announce-a-genocide/)
@@ -13,8 +15,6 @@
 - [PRGuy and the future of the free press](https://fml.lol/prguy-and-the-future-of-the-free-press/)
 - [Leaked Audio Exposes China’s Plans For Global War](https://fml.lol/leaked-audio-exposes-chinas-plans-for-global-war/)
 - [South Australia introduces prospect of jail time for breaking strict Covid restrictions](https://fml.lol/south-australia-introduces-prospect-of-jail-time-for-breaking-strict-covid-restrictions/)
-- [#Monkeypox: apocalypse 2.0](https://fml.lol/monkeypox-apocalypse-2-0/)
-- [Google’s DeepMind Achieves Human Level AI](https://fml.lol/googles-deepmind-achieves-human-level-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
