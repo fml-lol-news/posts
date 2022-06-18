@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta is sued for collecting data on hospital patients](https://fml.lol/meta-is-sued-for-collecting-data-on-hospital-patients/)
 - [Palantir’s Tiberius, Race, and the Public Health Panopticon](https://fml.lol/palantirs-tiberius-race-and-the-public-health-panopticon/)
 - [Silicon Valley Corporations Are Taking Control Of History](https://fml.lol/silicon-valley-corporations-are-taking-control-of-history/)
 - [Studies Link Incurable Prion Disease With COVID-19 Vaccine](https://fml.lol/studies-link-incurable-prion-disease-with-covid-19-vaccine/)
@@ -14,7 +15,6 @@
 - [Dear Friends, Sorry to Announce a Genocide](https://fml.lol/dear-friends-sorry-to-announce-a-genocide/)
 - [Globalists Have Entered The Kill Phase Of The Great Reset](https://fml.lol/globalists-have-entered-the-kill-phase-of-the-great-reset/)
 - [Trudeau wants new tools to tackle online misinformation](https://fml.lol/trudeau-wants-new-tools-to-tackle-online-misinformation/)
-- [Police Kill a Man in Back of Police Vehicle Using Makeshift Gas Chamber](https://fml.lol/police-kill-a-man-in-back-of-police-vehicle-using-makeshift-gas-chamber/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
