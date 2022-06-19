@@ -1,5 +1,12 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [UK Approves Julian Assange’s Extradition To The US Over Spying Charges](https://fml.lol/uk-approves-julian-assanges-extradition-to-the-us-over-spying-charges/)
+- [Australia’s Secret Propaganda Unit](https://fml.lol/australias-secret-propaganda-unit/)
+- [Anti-Satellite Weapons: Threatening The Future Of Space Activities](https://fml.lol/anti-satellite-weapons-threatening-the-future-of-space-activities/)
+- [Government reports prove Cost of Living Crisis &amp; Travel Disruption is being done on purpose to advance ‘The Great Reset’](https://fml.lol/government-reports-prove-cost-of-living-crisis-travel-disruption-is-being-done-on-purpose-to-advance-the-great-reset/)
+- [Major Australian Retail Chains Found Using Facial Recognition on Customers](https://fml.lol/major-australian-retail-chains-found-using-facial-recognition-on-customers/)
+- [The hijacking of science and truth by political conflict](https://fml.lol/the-hijacking-of-science-and-truth-by-political-conflict/)
+- [New Spyware ‘Hermit’ Now Being Used By Governments](https://fml.lol/new-spyware-hermit-now-being-used-by-governments/)
 - [Google Dismisses Engineer&#39;s Claim that AI Really Talked To Him](https://fml.lol/google-dismisses-engineers-claim-that-ai-really-talked-to-him/)
 - [Queensland’s public health emergency powers extended until September](https://fml.lol/queenslands-public-health-emergency-powers-extended-until-september/)
 - [Meta is sued for collecting data on hospital patients](https://fml.lol/meta-is-sued-for-collecting-data-on-hospital-patients/)
@@ -8,13 +15,6 @@
 - [Studies Link Incurable Prion Disease With COVID-19 Vaccine](https://fml.lol/studies-link-incurable-prion-disease-with-covid-19-vaccine/)
 - [You have to accept my identity as a tree](https://fml.lol/you-have-to-accept-my-identity-as-a-tree/)
 - [Mike Tyson Calls Alex Jones Critics Communists](https://fml.lol/mike-tyson-calls-alex-jones-critics-communists/)
-- [Digital ID companies thrived during the pandemic](https://fml.lol/digital-id-companies-thrived-during-the-pandemic/)
-- [Bilderberg Group meets in secret to discuss “disinformation”](https://fml.lol/bilderberg-group-meets-in-secret-to-discuss-disinformation/)
-- [This era of big tech exceptionalism has got to end: Australian eSafety Commissioner](https://fml.lol/this-era-of-big-tech-exceptionalism-has-got-to-end-australian-esafety-commissioner/)
-- [Queensland’s frontline workers begin legal challenges against vaccine mandates](https://fml.lol/queenslands-frontline-workers-begin-legal-challenges-against-vaccine-mandates/)
-- [‘We Are in Lock-Step With the US’: New Australian PM on Combating China’s Influence](https://fml.lol/we-are-in-lock-step-with-the-us-new-australian-pm-on-combating-chinas-influence/)
-- [Male Wins Aussie Women’s Surfing Title](https://fml.lol/male-wins-aussie-womens-surfing-title/)
-- [Dear Friends, Sorry to Announce a Genocide](https://fml.lol/dear-friends-sorry-to-announce-a-genocide/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
