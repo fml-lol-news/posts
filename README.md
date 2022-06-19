@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Dismisses Engineer&#39;s Claim that AI Really Talked To Him](https://fml.lol/google-dismisses-engineers-claim-that-ai-really-talked-to-him/)
 - [Queensland’s public health emergency powers extended until September](https://fml.lol/queenslands-public-health-emergency-powers-extended-until-september/)
 - [Meta is sued for collecting data on hospital patients](https://fml.lol/meta-is-sued-for-collecting-data-on-hospital-patients/)
 - [Palantir’s Tiberius, Race, and the Public Health Panopticon](https://fml.lol/palantirs-tiberius-race-and-the-public-health-panopticon/)
@@ -14,7 +15,6 @@
 - [‘We Are in Lock-Step With the US’: New Australian PM on Combating China’s Influence](https://fml.lol/we-are-in-lock-step-with-the-us-new-australian-pm-on-combating-chinas-influence/)
 - [Male Wins Aussie Women’s Surfing Title](https://fml.lol/male-wins-aussie-womens-surfing-title/)
 - [Dear Friends, Sorry to Announce a Genocide](https://fml.lol/dear-friends-sorry-to-announce-a-genocide/)
-- [Globalists Have Entered The Kill Phase Of The Great Reset](https://fml.lol/globalists-have-entered-the-kill-phase-of-the-great-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
