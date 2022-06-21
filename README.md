@@ -1,5 +1,12 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [The Federal Republic of New Normal Germany](https://fml.lol/the-federal-republic-of-new-normal-germany/)
+- [WHO Chief Tedros Now Privately Accepts COVID-19 Wuhan Lab Leak](https://fml.lol/who-chief-tedros-now-privately-accepts-covid-19-wuhan-lab-leak/)
+- [Skiff Drive is a new privacy cloud storage option to rival Dropbox and Google Drive](https://fml.lol/skiff-drive-is-a-new-privacy-cloud-storage-option-to-rival-dropbox-and-google-drive/)
+- [Most Journalists are Scientifically Unqualified](https://fml.lol/most-journalists-are-scientifically-unqualified/)
+- [The working class revolution of common sense](https://fml.lol/the-working-class-revolution-of-common-sense/)
+- [Disney Emasculates Obi-Wan](https://fml.lol/disney-emasculates-obi-wan/)
+- [Australian National Electricity Market Suspended to Condition People for Shortages](https://fml.lol/australian-national-electricity-market-suspended-to-condition-people-for-shortages/)
 - [UK Approves Julian Assange’s Extradition To The US Over Spying Charges](https://fml.lol/uk-approves-julian-assanges-extradition-to-the-us-over-spying-charges/)
 - [Australia’s Secret Propaganda Unit](https://fml.lol/australias-secret-propaganda-unit/)
 - [Anti-Satellite Weapons: Threatening The Future Of Space Activities](https://fml.lol/anti-satellite-weapons-threatening-the-future-of-space-activities/)
@@ -8,13 +15,6 @@
 - [The hijacking of science and truth by political conflict](https://fml.lol/the-hijacking-of-science-and-truth-by-political-conflict/)
 - [New Spyware ‘Hermit’ Now Being Used By Governments](https://fml.lol/new-spyware-hermit-now-being-used-by-governments/)
 - [Google Dismisses Engineer&#39;s Claim that AI Really Talked To Him](https://fml.lol/google-dismisses-engineers-claim-that-ai-really-talked-to-him/)
-- [Queensland’s public health emergency powers extended until September](https://fml.lol/queenslands-public-health-emergency-powers-extended-until-september/)
-- [Meta is sued for collecting data on hospital patients](https://fml.lol/meta-is-sued-for-collecting-data-on-hospital-patients/)
-- [Palantir’s Tiberius, Race, and the Public Health Panopticon](https://fml.lol/palantirs-tiberius-race-and-the-public-health-panopticon/)
-- [Silicon Valley Corporations Are Taking Control Of History](https://fml.lol/silicon-valley-corporations-are-taking-control-of-history/)
-- [Studies Link Incurable Prion Disease With COVID-19 Vaccine](https://fml.lol/studies-link-incurable-prion-disease-with-covid-19-vaccine/)
-- [You have to accept my identity as a tree](https://fml.lol/you-have-to-accept-my-identity-as-a-tree/)
-- [Mike Tyson Calls Alex Jones Critics Communists](https://fml.lol/mike-tyson-calls-alex-jones-critics-communists/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
