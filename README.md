@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Penny Wong gives Taliban $1 million in aid](https://fml.lol/penny-wong-gives-taliban-1-million-in-aid/)
 - [Facebook’s Audit Director AND Marketing Leads Are Former Pfizer Directors](https://fml.lol/facebooks-audit-director-and-marketing-leads-are-former-pfizer-directors/)
 - [There’s Something Terribly Wrong Happening With the Sons of Celebrities](https://fml.lol/theres-something-terribly-wrong-happening-with-the-sons-of-celebrities/)
 - [Deloitte Survey: Majority Of C-Suite Execs Thinking Of Quitting](https://fml.lol/deloitte-survey/)
@@ -14,7 +15,6 @@
 - [Disney Emasculates Obi-Wan](https://fml.lol/disney-emasculates-obi-wan/)
 - [Australian National Electricity Market Suspended to Condition People for Shortages](https://fml.lol/australian-national-electricity-market-suspended-to-condition-people-for-shortages/)
 - [UK Approves Julian Assange’s Extradition To The US Over Spying Charges](https://fml.lol/uk-approves-julian-assanges-extradition-to-the-us-over-spying-charges/)
-- [Australia’s Secret Propaganda Unit](https://fml.lol/australias-secret-propaganda-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
