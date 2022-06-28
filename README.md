@@ -1,5 +1,7 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Deadly Advice Given by Australia’s CASA Supporting Forced Vaccination of Pilots](https://fml.lol/deadly-advice-given-by-australias-casa-supporting-forced-vaccination-of-pilots/)
+- [Facebook Faces Bankruptcy as Millions Flee Platform Due to Censorship](https://fml.lol/facebook-faces-bankruptcy-as-millions-flee-platform-due-to-censorship/)
 - [Penny Wong gives Taliban $1 million in aid](https://fml.lol/penny-wong-gives-taliban-1-million-in-aid/)
 - [Facebook’s Audit Director AND Marketing Leads Are Former Pfizer Directors](https://fml.lol/facebooks-audit-director-and-marketing-leads-are-former-pfizer-directors/)
 - [There’s Something Terribly Wrong Happening With the Sons of Celebrities](https://fml.lol/theres-something-terribly-wrong-happening-with-the-sons-of-celebrities/)
@@ -13,8 +15,6 @@
 - [Most Journalists are Scientifically Unqualified](https://fml.lol/most-journalists-are-scientifically-unqualified/)
 - [The working class revolution of common sense](https://fml.lol/the-working-class-revolution-of-common-sense/)
 - [Disney Emasculates Obi-Wan](https://fml.lol/disney-emasculates-obi-wan/)
-- [Australian National Electricity Market Suspended to Condition People for Shortages](https://fml.lol/australian-national-electricity-market-suspended-to-condition-people-for-shortages/)
-- [UK Approves Julian Assange’s Extradition To The US Over Spying Charges](https://fml.lol/uk-approves-julian-assanges-extradition-to-the-us-over-spying-charges/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
