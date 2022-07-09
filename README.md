@@ -1,5 +1,6 @@
 # [fml.lol](https://fml.lol) posts
 <!-- BLOG-POST-LIST:START -->
+- [Royal Canadian Mounted Police used smartphone malware to spy on targets](https://fml.lol/royal-canadian-mounted-police-used-smartphone-malware-to-spy-on-targets/)
 - [The Dead Internet Theory](https://fml.lol/the-dead-internet-theory/)
 - [Munchausen’s by proxy: the UN &amp; WEF made the world ‘sick’ for profit](https://fml.lol/munchausens-by-proxy-the-un-wef-made-the-world-sick-for-profit/)
 - [Netherlands Government Wants The Great Reset: Courageous Farmers Are Fighting Back](https://fml.lol/netherlands-government-wants-the-great-reset-courageous-farmers-are-fighting-back/)
@@ -14,7 +15,6 @@
 - [Penny Wong gives Taliban $1 million in aid](https://fml.lol/penny-wong-gives-taliban-1-million-in-aid/)
 - [Facebook’s Audit Director AND Marketing Leads Are Former Pfizer Directors](https://fml.lol/facebooks-audit-director-and-marketing-leads-are-former-pfizer-directors/)
 - [There’s Something Terribly Wrong Happening With the Sons of Celebrities](https://fml.lol/theres-something-terribly-wrong-happening-with-the-sons-of-celebrities/)
-- [Deloitte Survey: Majority Of C-Suite Execs Thinking Of Quitting](https://fml.lol/deloitte-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 [Forum](https://forum.fml.lol)
